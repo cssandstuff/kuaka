@@ -1,4 +1,4 @@
-baseurl = "http://cssandstuff.github.io/kuaka"
+baseurl = "https://cssandstuff.github.io/kuaka"
 title = "Kuaka"
 theme = "kuaka"
 languageCode = "en-us"
