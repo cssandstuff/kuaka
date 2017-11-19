@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cssandstuff.github.io/kuaka/jp/home/</loc>
+    <loc>https://cssandstuff.github.io/kuaka/jp/home/</loc>
     <lastmod>2017-11-14T20:01:34+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cssandstuff.github.io/kuaka/home/"
+                href="https://cssandstuff.github.io/kuaka/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://cssandstuff.github.io/kuaka/jp/home/"
+                href="https://cssandstuff.github.io/kuaka/jp/home/"
                 />
   </url>
   
   <url>
-    <loc>http://cssandstuff.github.io/kuaka/jp/categories/</loc>
+    <loc>https://cssandstuff.github.io/kuaka/jp/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cssandstuff.github.io/kuaka/categories/"
+                href="https://cssandstuff.github.io/kuaka/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://cssandstuff.github.io/kuaka/jp/categories/"
+                href="https://cssandstuff.github.io/kuaka/jp/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://cssandstuff.github.io/kuaka/jp/</loc>
+    <loc>https://cssandstuff.github.io/kuaka/jp/</loc>
     <lastmod>2017-11-14T20:01:34+13:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cssandstuff.github.io/kuaka/"
+                href="https://cssandstuff.github.io/kuaka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://cssandstuff.github.io/kuaka/jp/"
+                href="https://cssandstuff.github.io/kuaka/jp/"
                 />
   </url>
   
   <url>
-    <loc>http://cssandstuff.github.io/kuaka/jp/tags/</loc>
+    <loc>https://cssandstuff.github.io/kuaka/jp/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cssandstuff.github.io/kuaka/tags/"
+                href="https://cssandstuff.github.io/kuaka/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://cssandstuff.github.io/kuaka/jp/tags/"
+                href="https://cssandstuff.github.io/kuaka/jp/tags/"
                 />
   </url>
   
