@@ -1,0 +1,26 @@
+baseurl = "http://kuaka.co.nz"
+title = "Kuaka"
+theme = "kuaka"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Home"
+weight = -99
+
+
+[languages.jp]
+weight = 10
+languageName = "Japanese"
+
+[[languages.jp.menu.main]]
+url    = "/jp"
+name   = "ホーム"
+weight = -99

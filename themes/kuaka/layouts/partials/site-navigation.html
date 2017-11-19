@@ -1,0 +1,22 @@
+<nav class="main-nav pt2 w-100 w-70-ns center ttu" role="navigation">
+  {{ if .Site.Menus.main }}
+    <ul class="pl0 ma0 pa0 flex justify-between items-center">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li class="list f5 f4-ns fw3 dib w-25 {{if $currentPage.IsMenuCurrent "main" . }} selected{{end}} {{ if and ($.IsNode) (eq $.Section "") (eq .Name "ホーム") }} selected {{ end }}">
+        <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page"> 
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</nav>
+
+<div id="languages">
+  {{ if .IsTranslated }}
+    {{ range $i, $e := .Translations }}
+      {{ if $i }}, {{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
+    {{ end}}
+  {{ end }}
+</div>
