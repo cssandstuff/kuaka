@@ -8,7 +8,7 @@ menu:
     weight: 5
 
 ---
-## Kuaka Translations is the trading name of Elizabeth Sekizaki. \[photo of me\]
+## Kuaka Translations is the trading name of Elizabeth Sekizaki.
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
