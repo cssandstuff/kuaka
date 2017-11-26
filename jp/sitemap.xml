@@ -50,6 +50,16 @@
   <url>
     <loc>https://cssandstuff.github.io/kuaka/jp/contact/</loc>
     <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/contact/"
+                />
   </url>
   
   <url>
