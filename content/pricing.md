@@ -1,11 +1,13 @@
 ---
-title: "Pricing"
-date: 2017-11-14T20:01:34+13:00
-draft: true
-menu: "main"
+title: Pricing
+date: 2017-11-14 20:01:34 +1300
 weight: 3
----
+type: page
+menu:
+  main:
+    weight: 3
 
+---
 ## Every project is different, so please email/call for a quote, or fill in the quote form. 
 All prices below include GST (15%). 
 If you are outside of New Zealand, GST does not apply to my services.
