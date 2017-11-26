@@ -5,7 +5,7 @@ weight: 3
 type: page
 menu:
   main:
-    weight: 3
+    weight: 6
 
 ---
 ## Every project is different, so please email/call for a quote, or fill in the quote form. 

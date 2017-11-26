@@ -5,7 +5,7 @@ weight: -1
 type: page
 menu:
   main:
-    weight: -1
+    weight: 3
 
 ---
 ものすごく嬉しいぞう！ 

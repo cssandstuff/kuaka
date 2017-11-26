@@ -5,7 +5,7 @@ weight: 9
 type: page
 menu:
   main:
-    weight: 9
+    weight: 2
 
 ---
 もお〜

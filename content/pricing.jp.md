@@ -5,7 +5,7 @@ weight: 3
 type: page
 menu:
   main:
-    weight: 3
+    weight: 1
 
 ---
 # 翻訳料金について

@@ -1,26 +1,21 @@
 baseurl = "https://cssandstuff.github.io/kuaka"
-title = "Kuaka"
-theme = "kuaka"
-languageCode = "en-us"
 defaultContentLanguage = "en"
+disableKinds = ["RSS"]
 enableRobotsTXT = true
-disableKinds=["RSS"]
-
+languageCode = "en-us"
+theme = "kuaka"
+title = "Kuaka"
 [languages.en]
-weight = 0
 languageName = "English"
-
+weight = 0
 [[languages.en.menu.main]]
-url    = "/"
-name   = "Home"
+name = "Home"
+url = "/"
 weight = -99
-
-
 [languages.jp]
-weight = 10
 languageName = "Japanese"
-
+weight = 10
 [[languages.jp.menu.main]]
-url    = "/jp"
-name   = "ホーム"
+name = "ホーム"
+url = "/jp"
 weight = -99

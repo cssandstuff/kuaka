@@ -5,7 +5,7 @@ weight: 2
 type: page
 menu:
   main:
-    weight: 2
+    weight: 7
 
 ---
 ## Please email for a quote or fill in the quote form below, and I will get back to you as soon as possible. 

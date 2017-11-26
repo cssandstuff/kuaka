@@ -5,7 +5,7 @@ weight: 9
 type: page
 menu:
   main:
-    weight: 9
+    weight: 8
 
 ---
 ## Elizabeth Sekizaki, Japanese to English Translator, trading as Kuaka Translations

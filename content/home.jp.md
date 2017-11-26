@@ -1,10 +1,10 @@
 ---
-title: "Home-JP"
-date: 2017-11-14T20:01:34+13:00
-draft: false
-layout: "none"
----
+title: Home-JP
+date: 2017-11-14 20:01:34 +1300
+layout: none
+type: page
 
+---
 # Professional 日本語 *to* English Translation
 ## *Based in Auckland New Zealand*
 * Translations for NZTA *( Driver’s Licences )*
