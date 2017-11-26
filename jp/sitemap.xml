@@ -3,66 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cssandstuff.github.io/kuaka/jp/about/</loc>
-    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cssandstuff.github.io/kuaka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://cssandstuff.github.io/kuaka/jp/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cssandstuff.github.io/kuaka/jp/getquote/</loc>
-    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cssandstuff.github.io/kuaka/getquote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://cssandstuff.github.io/kuaka/jp/getquote/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cssandstuff.github.io/kuaka/jp/pricing/</loc>
-    <lastmod>2017-11-14T20:01:34+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cssandstuff.github.io/kuaka/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://cssandstuff.github.io/kuaka/jp/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cssandstuff.github.io/kuaka/jp/contact/</loc>
-    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cssandstuff.github.io/kuaka/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://cssandstuff.github.io/kuaka/jp/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cssandstuff.github.io/kuaka/jp/home/</loc>
     <lastmod>2017-11-14T20:01:34+13:00</lastmod>
     <xhtml:link
@@ -94,7 +34,7 @@
   
   <url>
     <loc>https://cssandstuff.github.io/kuaka/jp/</loc>
-    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <lastmod>2017-11-14T20:01:34+13:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
