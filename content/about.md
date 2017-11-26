@@ -6,7 +6,6 @@ type: page
 menu:
   main:
     weight: -1
-draft: true
 
 ---
 ## Kuaka Translations is the trading name of Elizabeth Sekizaki. \[photo of me\]
