@@ -37,6 +37,24 @@
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
+    <script charset="utf-8" src="//ucarecdn.com/libs/widget/3.2.1/uploadcare.full.min.js"></script>
+    <script>
+      UPLOADCARE_LOCALE = "en";
+      UPLOADCARE_TABS = "file url gdrive dropbox skydrive";
+      UPLOADCARE_PUBLIC_KEY = "ec167e50c204fa8a764d";
+      UPLOADCARE_LOCALE_TRANSLATIONS = {
+          buttons: {
+              choose: {
+                  files: {
+                      one: 'Cmon, upload smthng'
+                  },
+                  images: {
+                      one: 'Cmon, upload a File'
+                  }
+              }
+          }
+      };
+  </script>
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
