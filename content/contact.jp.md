@@ -1,9 +1,11 @@
 ---
 title: "コンタクト"
-date: 2017-11-12T22:07:07+13:00
-draft: true
-menu: "main"
+date: 2017-11-12 22:07:07 +1300
 weight: 9
----
+type: page
+menu:
+  main:
+    weight: 2
 
+---
 もお〜

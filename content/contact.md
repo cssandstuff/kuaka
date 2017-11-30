@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-date: 2017-11-12T22:07:07+13:00
-draft: true
-menu: "main"
+title: Contact
+date: 2017-11-12 22:07:07 +1300
 weight: 9
----
+type: page
+menu:
+  main:
+    weight: 7
 
+---
 ## Elizabeth Sekizaki, Japanese to English Translator, trading as Kuaka Translations
 
 #### Direct contact:

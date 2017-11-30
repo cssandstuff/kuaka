@@ -5,15 +5,14 @@ weight: -1
 type: page
 menu:
   main:
-    weight: -1
-draft: true
+    weight: 5
 
 ---
-## Kuaka Translations is the trading name of Elizabeth Sekizaki. \[photo of me\]
+## Kuaka Translations is the trading name of Elizabeth Sekizaki.
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
-I am not an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language.
+I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language.
 
 Qualifications:
 
