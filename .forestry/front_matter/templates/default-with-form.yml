@@ -4,6 +4,11 @@ fields:
 - type: text
   label: Page Title
   name: title
+- type: datetime
+  default: Invalid date
+  label: Date
+  name: date
 - type: boolean
   name: draft
   label: Draft
+- type: field_group_list
