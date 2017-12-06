@@ -5875,11 +5875,6 @@ body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 
-.bgcolour{
-  background:  #193443 url(/kuaka/images/akl.jpg) no-repeat center center fixed;
-  background-size: cover;
-}
-
 .bgimage{
   position: absolute;
   top: 0; left: 0;

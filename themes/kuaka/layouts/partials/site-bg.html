@@ -1,0 +1,14 @@
+
+<style>
+  html{
+    {{ if .Params.Bg }}
+    background: #193443 url({{ .Params.Bg }}) no-repeat center center fixed; 
+    {{ else }}
+    background: #193443 url(/kuaka/images/akl.jpg) no-repeat center center fixed; 
+    {{ end }}
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+</style>

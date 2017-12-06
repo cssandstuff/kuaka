@@ -1,7 +1,7 @@
 ---
 title: Pricing
+bg: "/kuaka/images/leafy.jpg"
 date: 2017-11-14 20:01:34 +1300
-weight: 3
 type: page
 menu:
   main:

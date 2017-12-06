@@ -1,5 +1,6 @@
 ---
 title: Home
+bg: "/kuaka/images/leafy.jpg"
 date: 2017-11-14 20:01:34 +1300
 layout: page-with-form
 type: page
