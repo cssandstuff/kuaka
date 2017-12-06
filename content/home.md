@@ -1,6 +1,6 @@
 ---
 title: Home
-bg: "/images/fuji2.jpg"
+bg: "/images/falls.jpg"
 date: 2017-11-15 20:01:34 +1300
 layout: ''
 type: page
