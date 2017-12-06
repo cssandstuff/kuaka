@@ -1,5 +1,6 @@
 ---
 title: Contact
+bg: "/kuaka/images/fuji.jpg"
 date: 2017-11-12 22:07:07 +1300
 weight: 9
 type: page
@@ -8,7 +9,8 @@ menu:
     weight: 7
 
 ---
-## Elizabeth Sekizaki, Japanese to English Translator, trading as Kuaka Translations
+# Elizabeth Sekizaki
+## Japanese to English Translator, *trading as Kuaka Translations*
 
 #### Direct contact:
 info@kuakatranslations.co.nz

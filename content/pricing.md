@@ -1,6 +1,6 @@
 ---
 title: Pricing
-bg: "/kuaka/images/leafy.jpg"
+bg: "/kuaka/images/river.jpg"
 date: 2017-11-14 20:01:34 +1300
 type: page
 menu:
@@ -8,7 +8,8 @@ menu:
     weight: 6
 
 ---
-## Every project is different, so please email/call for a quote, or fill in the quote form. 
+# Every project is *different* 
+## So please email/call for a quote *or fill in the quote form.*
 All prices below include GST (15%). 
 If you are outside of New Zealand, GST does not apply to my services.
 

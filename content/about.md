@@ -1,5 +1,6 @@
 ---
 title: About
+bg: "/kuaka/images/rainbow.jpg"
 date: 2017-11-12 22:07:07 +1300
 layout: page-with-form
 weight: -1
@@ -9,7 +10,8 @@ menu:
     weight: 5
 
 ---
-## Kuaka Translations is the trading name of Elizabeth Sekizaki.
+# Kuaka Translations *is* 
+## *The Trading Name of Elizabeth Sekizaki*
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
