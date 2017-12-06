@@ -1,0 +1,11 @@
+{{ range where .Data.Pages "Title" "Home-JP" }}
+<style>
+    html{
+      background: #193443 url({{ .Site.BaseURL }}{{ .Params.Bg }}) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+</style>
+{{ end }}

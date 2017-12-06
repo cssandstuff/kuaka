@@ -1,8 +1,7 @@
 ---
 title: Home
-bg: "/images/falls.jpg"
+bg: "/images/akl.jpg"
 date: 2017-11-15 20:01:34 +1300
-layout: ''
 type: page
 
 ---
@@ -13,4 +12,4 @@ type: page
 * Translations for NZTA _( Driver’s Licences )_
 * NZQA _( Graduation certificates, diplomas, qualifications )_
 * Immigration New Zealand _( Visa applications – Family registration documents, work certificates, recommendation letters etc. )_
-* Medical Journal Articles.
+* Medical Journal Articles

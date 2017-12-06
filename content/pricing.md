@@ -1,6 +1,6 @@
 ---
 title: Pricing
-bg: "/kuaka/images/river.jpg"
+bg: "/images/river.jpg"
 date: 2017-11-14 20:01:34 +1300
 type: page
 menu:
