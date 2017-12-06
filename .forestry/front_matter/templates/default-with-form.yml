@@ -4,3 +4,6 @@ fields:
 - type: text
   label: Page Title
   name: title
+- type: boolean
+  name: draft
+  label: Draft
