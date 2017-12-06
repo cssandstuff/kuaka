@@ -1,8 +1,8 @@
 ---
 title: Home
-bg: "/kuaka/images/leafy.jpg"
+bg: "/images/fuji2.jpg"
 date: 2017-11-14 20:01:34 +1300
-layout: page-with-form
+layout: ''
 type: page
 
 ---
