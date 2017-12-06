@@ -16,3 +16,10 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: file
+  default: "/images/akl.jpg"
+  label: Background Image
+  name: bg
+  description: Choose an image for the background of this page
+  config:
+    maxSize: '3'
