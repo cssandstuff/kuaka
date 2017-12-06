@@ -8,7 +8,11 @@ body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 .bgcolour{
-  background: #193443;
+  background:  #193443 url(/kuaka/images/akl.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .bgimage{
   position: absolute;
@@ -39,6 +43,7 @@ body, html{
   transition: 0.3s all;
   font-weight: 300;
   letter-spacing: 0.04em;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.1)
 }
 .main-nav a:hover{
   background: rgba(255,255,255,0.1);
@@ -122,6 +127,7 @@ body, html{
 .pre-footer{
 }
 
+
 .phnumbers{
   color: #367D9A;
   font-weight: 600;
@@ -155,8 +161,15 @@ body, html{
 }
 #languages a{
   color: #fff;
-  background: rgba(0,0,0,0.3);
-  padding: 10px;
-  display: block;
+  background: rgba(0,0,0,0.1);
+  padding: 3px 15px;
+  display: inline-block;
   text-decoration:none;
+  font-size: 0.9rem;
+  &.selected{
+    background: rgba(0,0,0,0.4);
+  }
+  &:first-child{
+    border-radius: 0 0 0 6px
+  }
 }
