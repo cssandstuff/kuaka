@@ -1,6 +1,6 @@
 {{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="main-content w-100 w-70-ns flex-l mw9 center">
+  <div class="main-content w-100 w-70-ns center">
     <article class="center cf pv5 ph3 ph1-ns mw7">
       <header>
         <p class="f6 b helvetica tracked">
@@ -11,5 +11,7 @@
         {{ .Content }}
       </div>
     </article>
+    {{ partial "site-contact-info.html" . }}
   </div>
+  
 {{ end }}

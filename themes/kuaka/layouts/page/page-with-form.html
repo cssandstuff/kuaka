@@ -1,0 +1,38 @@
+{{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="main-content w-100 w-70-ns center">
+    <article class="center cf pv5 ph3 ph1-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+    </article>
+    {{ partial "site-contact-info.html" . }}
+  </div>
+{{ end }}
+{{ define "pre-footer"}}
+<form class="form" id="contactform" action="//formspree.io/tim@cssandstuff.com" method="POST">
+    <fieldset class="field">
+        <input class="input" type="text" name="name" placeholder="Name" required>
+        <label class="label" for="name"><span class="label-content">Your name</span></label>
+    </fieldset>
+    <fieldset class="field">
+        <input class="input" type="email" name="_replyto" placeholder="example@domain.com" required>
+        <label class="label" for="_replyto"><span class="label-content">Your email</span></label>
+    </fieldset>
+    <fieldset class="field">
+        <textarea class="input" name="message" rows="1" placeholder="Message" required></textarea>
+        <label class="label" for="message"><span class="label-content">Your message</span></label>
+    </fieldset>
+    <input type="hidden" role="uploadcare-uploader" name="File%20Upload"
+       data-crop="disabled"
+       data-images-only="true" />
+    <fieldset class="field">
+        <input class="button submit" type="submit" value="Send">
+    </fieldset>
+</form>
+{{ end }}
