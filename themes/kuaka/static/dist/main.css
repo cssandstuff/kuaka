@@ -1832,6 +1832,14 @@ img { max-width: 100%; }
 
 .order-last { -webkit-box-ordinal-group: 100000; -ms-flex-order: 99999; order: 99999; }
 
+.flex-grow-0 { -webkit-box-flex: 0; -ms-flex-positive: 0; flex-grow: 0; }
+
+.flex-grow-1 { -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }
+
+.flex-shrink-0 { -ms-flex-negative: 0; flex-shrink: 0; }
+
+.flex-shrink-1 { -ms-flex-negative: 1; flex-shrink: 1; }
+
 @media screen and (min-width: 30em) {
   .flex-ns { display: -webkit-box; display: -ms-flexbox; display: flex; }
   .inline-flex-ns { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; }
@@ -1885,6 +1893,12 @@ img { max-width: 100%; }
   .order-7-ns { -webkit-box-ordinal-group: 8; -ms-flex-order: 7; order: 7; }
   .order-8-ns { -webkit-box-ordinal-group: 9; -ms-flex-order: 8; order: 8; }
   .order-last-ns { -webkit-box-ordinal-group: 100000; -ms-flex-order: 99999; order: 99999; }
+
+  .flex-grow-0-ns { -webkit-box-flex: 0; -ms-flex-positive: 0; flex-grow: 0; }
+  .flex-grow-1-ns { -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }
+
+  .flex-shrink-0-ns { -ms-flex-negative: 0; flex-shrink: 0; }
+  .flex-shrink-1-ns { -ms-flex-negative: 1; flex-shrink: 1; }
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
@@ -1940,6 +1954,12 @@ img { max-width: 100%; }
   .order-7-m { -webkit-box-ordinal-group: 8; -ms-flex-order: 7; order: 7; }
   .order-8-m { -webkit-box-ordinal-group: 9; -ms-flex-order: 8; order: 8; }
   .order-last-m { -webkit-box-ordinal-group: 100000; -ms-flex-order: 99999; order: 99999; }
+
+  .flex-grow-0-m { -webkit-box-flex: 0; -ms-flex-positive: 0; flex-grow: 0; }
+  .flex-grow-1-m { -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }
+
+  .flex-shrink-0-m { -ms-flex-negative: 0; flex-shrink: 0; }
+  .flex-shrink-1-m { -ms-flex-negative: 1; flex-shrink: 1; }
 }
 
 @media screen and (min-width: 60em) {
@@ -1996,6 +2016,12 @@ img { max-width: 100%; }
   .order-7-l { -webkit-box-ordinal-group: 8; -ms-flex-order: 7; order: 7; }
   .order-8-l { -webkit-box-ordinal-group: 9; -ms-flex-order: 8; order: 8; }
   .order-last-l { -webkit-box-ordinal-group: 100000; -ms-flex-order: 99999; order: 99999; }
+
+  .flex-grow-0-l { -webkit-box-flex: 0; -ms-flex-positive: 0; flex-grow: 0; }
+  .flex-grow-1-l { -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }
+
+  .flex-shrink-0-l { -ms-flex-negative: 0; flex-shrink: 0; }
+  .flex-shrink-1-l { -ms-flex-negative: 1; flex-shrink: 1; }
 }
 
 /*
@@ -2499,28 +2525,23 @@ code, .code {
 
 .link {
   text-decoration: none;
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
 .link:link,
 .link:visited {
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
 .link:hover   {
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
 .link:active  {
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
 .link:focus   {
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
   outline: 1px dotted currentColor;
 }
@@ -5464,19 +5485,17 @@ code, .code {
 
 .dim {
   opacity: 1;
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
 .dim:hover,
 .dim:focus {
   opacity: .5;
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
 .dim:active {
-  opacity: .8; -webkit-transition: opacity .15s ease-out; transition: opacity .15s ease-out;
+  opacity: .8; transition: opacity .15s ease-out;
 }
 
 /*
@@ -5486,14 +5505,12 @@ code, .code {
 */
 
 .glow {
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
 .glow:hover,
 .glow:focus {
   opacity: 1;
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
@@ -5514,7 +5531,6 @@ code, .code {
 
 .hide-child .child {
   opacity: 0;
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
@@ -5522,7 +5538,6 @@ code, .code {
 .hide-child:focus  .child,
 .hide-child:active .child {
   opacity: 1;
-  -webkit-transition: opacity .15s ease-in;
   transition: opacity .15s ease-in;
 }
 
@@ -5540,7 +5555,6 @@ code, .code {
           backface-visibility: hidden;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
-  -webkit-transition: -webkit-transform 0.25s ease-out;
   transition: -webkit-transform 0.25s ease-out;
   transition: transform 0.25s ease-out;
   transition: transform 0.25s ease-out, -webkit-transform 0.25s ease-out;
@@ -5563,7 +5577,6 @@ code, .code {
           backface-visibility: hidden;
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
-  -webkit-transition: -webkit-transform .25s ease-in-out;
   transition: -webkit-transform .25s ease-in-out;
   transition: transform .25s ease-in-out;
   transition: transform .25s ease-in-out, -webkit-transform .25s ease-in-out;
@@ -5596,7 +5609,6 @@ code, .code {
 .shadow-hover {
   cursor: pointer;
   position: relative;
-  -webkit-transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
@@ -5611,7 +5623,6 @@ code, .code {
   width: 100%;
   height: 100%;
   z-index: -1;
-  -webkit-transition: opacity 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: opacity 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
@@ -5626,7 +5637,6 @@ code, .code {
 .bg-animate,
 .bg-animate:hover,
 .bg-animate:focus {
-  -webkit-transition: background-color .15s ease-in-out;
   transition: background-color .15s ease-in-out; 
 }
 
@@ -5739,14 +5749,12 @@ code, .code {
 
 .nested-links a {
   color: #357edd;
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
 .nested-links a:hover,
 .nested-links a:focus {
   color: #96ccff;
-  -webkit-transition: color .15s ease-in;
   transition: color .15s ease-in;
 }
 
@@ -5933,7 +5941,6 @@ body, html{
 }
 
 .main-nav li{
-  -webkit-transition: 0.3s all;
   transition: 0.3s all;
 }
 
@@ -5946,7 +5953,6 @@ body, html{
   font-size: 0.95rem;
   padding: 1.3em;
   text-align: center; 
-  -webkit-transition: 0.3s all; 
   transition: 0.3s all;
   font-weight: 300;
   letter-spacing: 0.04em;
@@ -6080,10 +6086,10 @@ body, html{
 #languages a{
   color: #fff;
   background: rgba(0, 0, 0, .1);
-  padding: 3px 15px;
+  padding: 6px 15px;
   display: inline-block;
   text-decoration:none;
-  font-size: 0.9rem
+  font-size: 0.8rem
 }
 
 #languages a.selected {

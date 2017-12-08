@@ -60,7 +60,7 @@
   <body class="ma0 {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7" role="main">
+    <main class="pb7" role="main" id="mainContent">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "pre-footer" .}}{{end}}

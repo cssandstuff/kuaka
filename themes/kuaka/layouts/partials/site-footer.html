@@ -5,33 +5,5 @@
   </a>
   {{ partial "social-follow.html" . }}
   
-<script
-  src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
-<script>
-  
-$(document).ready(function(){
-
-});
-$("#contactform").submit(function(e) {
-    e.preventDefault();    
-    var formData = new FormData(this);
-    console.log(formData);
-    $.ajax({
-        url: 'https://formspree.io/tim@cssandstuff.com',
-        type: 'POST',
-        data: formData,
-        dataType: "json",
-        success: function (data) {
-            console.log(data)
-        },
-        cache: false,
-        contentType: false,
-        processData: false
-    });
-});
-
-</script>
   </div>
 </footer>
