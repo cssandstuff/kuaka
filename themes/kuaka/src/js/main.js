@@ -71,6 +71,10 @@ function loadPage(newUrl) {
     var languagesElement = document.getElementById("languages");
     var pageBg = document.getElementById("pageBg");
     
+    
+    var downloadingImage = new Image();
+    
+
     contentElement.replaceWith(newContent);
     
     if($(languagesElement).find('a:nth-child(1)').hasClass('selected') != $(newLanguage).find('a:nth-child(1)').hasClass('selected')){
@@ -83,11 +87,19 @@ function loadPage(newUrl) {
     }
     
     languagesElement.replaceWith(newLanguage);
-    clearTimeout(changeBg)
-    changeBg = setTimeout(function(){
-      document.documentElement.style.background = "url(" + newPageBg.value + ") no-repeat center top fixed";
-      document.documentElement.style.backgroundSize ="cover";
-    },1000);
+    clearTimeout(changeBg);
+
+    downloadingImage.onload = function(){
+      //image.src = this.src;   
+      changeBg = setTimeout(function(){
+        document.documentElement.style.background = "url(" + newPageBg.value + ") no-repeat center top fixed";
+        document.documentElement.style.backgroundSize ="cover";
+      },1000);
+      
+    };
+    downloadingImage.src = newPageBg.value;
+    
+    
     
 
 
