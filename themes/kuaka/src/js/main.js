@@ -94,7 +94,7 @@ function loadPage(newUrl) {
       changeBg = setTimeout(function(){
         document.documentElement.style.background = "url(" + newPageBg.value + ") no-repeat center top fixed";
         document.documentElement.style.backgroundSize ="cover";
-      },1000);
+      },100);
       
     };
     downloadingImage.src = newPageBg.value;
