@@ -66,5 +66,14 @@
     {{ block "pre-footer" .}}{{end}}
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
+    {{ if .Params.Bg }}
+    <input id="pageBg" type="hidden" value="{{ .Site.BaseURL }}{{ .Params.Bg }}" />
+    {{ end }}
+    {{ range where .Data.Pages "Title" "Home" }}
+      <input id="pageBg" type="hidden" value="{{ .Site.BaseURL }}{{ .Params.Bg }}" />
+    {{ end}}
+    {{ range where .Data.Pages "Title" "Home-JP" }}
+      <input id="pageBg" type="hidden" value="{{ .Site.BaseURL }}{{ .Params.Bg }}" />
+    {{ end}}
   </body>
 </html>

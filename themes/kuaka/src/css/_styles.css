@@ -7,7 +7,9 @@
 body, html{
   font-family: 'Ubuntu', sans-serif;
 }
-
+html{
+  transition: 2.4s;
+}
 .bgimage{
   position: absolute;
   top: 0; left: 0;
@@ -37,17 +39,42 @@ body, html{
   transition: 0.3s all;
   font-weight: 300;
   letter-spacing: 0.04em;
-  text-shadow: 1px 1px 1px rgba(0,0,0,0.1)
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+  transition: 0.3s all;
 }
 .main-nav a:hover{
   background: rgba(255,255,255,0.1);
 }
 .main-nav .selected a{
-  border-top: 3px solid #fff;
+  position: relative;
+  border-top: 1px solid #fff;
+  &:before{
+    content: '';
+    width: 100%;
+    position: absolute;
+    top: -2px;
+    left: 0;
+    height: 2px;
+    background: #fff;
+    opacity: 0;
+    animation: 0.5s fadeIn forwards 1;
+  }
 }
 
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
 .main-content{
   background: #fff;
+  & article{
+    opacity: 0;
+    animation: 0.4s fadeIn forwards 1;
+  }
 }
 
 .home h1{
@@ -156,12 +183,14 @@ body, html{
 #languages a{
   color: #fff;
   background: rgba(0,0,0,0.1);
-  padding: 3px 15px;
+  padding: 6px 15px;
   display: inline-block;
   text-decoration:none;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  opacity: 0.4;
   &.selected{
     background: rgba(0,0,0,0.4);
+    opacity: 1;
   }
   &:first-child{
     border-radius: 0 0 0 6px

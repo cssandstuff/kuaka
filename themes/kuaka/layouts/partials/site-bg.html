@@ -2,9 +2,9 @@
 <style>
   html{
     {{ if .Params.Bg }}
-    background: #193443 url({{ .Site.BaseURL }}{{ .Params.Bg }}) no-repeat center center fixed; 
+    background: #193443 url({{ .Site.BaseURL }}{{ .Params.Bg }}) no-repeat top center fixed; 
     {{ else }}
-    background: #193443 url({{ .Site.BaseURL }}/images/akl.jpg) no-repeat center center fixed; 
+    background: #193443 url({{ .Site.BaseURL }}/images/akl.jpg) no-repeat top center fixed; 
     {{ end }}
     -webkit-background-size: cover;
     -moz-background-size: cover;

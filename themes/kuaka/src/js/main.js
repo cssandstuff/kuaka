@@ -17,7 +17,12 @@ var $ = require('jquery/src/jquery');
 
 $(document).ready(function(){
   console.log('hello');
+  $('#navMain li').stop().click(function(){
+    $('#navMain li').removeClass('selected');
+    $(this).addClass('selected');
+  });
 });
+
 
 $("#contactform").submit(function(e) {
     e.preventDefault();    
@@ -39,6 +44,7 @@ $("#contactform").submit(function(e) {
 
 // Nifty stuff to load pages asynchronously:
 // https://albertarmea.com/post/async-load-hugo/
+var changeBg = '';
 function loadPage(newUrl) {
   var httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = function() {
@@ -49,11 +55,12 @@ function loadPage(newUrl) {
     var newDocument = httpRequest.responseXML;
     if (newDocument === null)
       return;
-
     
     var newContent = httpRequest.responseXML.getElementById("mainContent");
     var newNav = httpRequest.responseXML.getElementById("navMain");
     var newLanguage = httpRequest.responseXML.getElementById("languages");
+    var newPageBg = httpRequest.responseXML.getElementById("pageBg");
+
     if (newContent === null)
       return;
 
@@ -62,10 +69,28 @@ function loadPage(newUrl) {
     var contentElement = document.getElementById("mainContent");
     var navElement = document.getElementById("navMain");
     var languagesElement = document.getElementById("languages");
+    var pageBg = document.getElementById("pageBg");
     
     contentElement.replaceWith(newContent);
-    navElement.replaceWith(newNav);
+    
+    if($(languagesElement).find('a:nth-child(1)').hasClass('selected') != $(newLanguage).find('a:nth-child(1)').hasClass('selected')){
+      console.log('true');
+      navElement.replaceWith(newNav);
+      $('#navMain li').stop().click(function(){
+        $('#navMain li').removeClass('selected');
+        $(this).addClass('selected');
+      });
+    }
+    
     languagesElement.replaceWith(newLanguage);
+    clearTimeout(changeBg)
+    changeBg = setTimeout(function(){
+      document.documentElement.style.background = "url(" + newPageBg.value + ") no-repeat center top fixed";
+      document.documentElement.style.backgroundSize ="cover";
+    },1000);
+    
+
+
   }
 
   httpRequest.responseType = "document";

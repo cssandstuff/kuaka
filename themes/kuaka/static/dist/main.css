@@ -5925,6 +5925,10 @@ body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 
+html{
+  transition: 2.4s;
+}
+
 .bgimage{
   position: absolute;
   top: 0; left: 0;
@@ -5956,7 +5960,8 @@ body, html{
   transition: 0.3s all;
   font-weight: 300;
   letter-spacing: 0.04em;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, .1)
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .1);
+  transition: 0.3s all;
 }
 
 .main-nav a:hover{
@@ -5964,11 +5969,49 @@ body, html{
 }
 
 .main-nav .selected a{
-  border-top: 3px solid #fff;
+  position: relative;
+  border-top: 1px solid #fff
+}
+
+.main-nav .selected a:before {
+  content: '';
+  width: 100%;
+  position: absolute;
+  top: -2px;
+  left: 0;
+  height: 2px;
+  background: #fff;
+  opacity: 0;
+  -webkit-animation: 0.5s fadeIn forwards 1;
+          animation: 0.5s fadeIn forwards 1;
+}
+
+@-webkit-keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
 
 .main-content{
-  background: #fff;
+  background: #fff
+}
+
+.main-content article {
+  opacity: 0;
+  -webkit-animation: 0.4s fadeIn forwards 1;
+          animation: 0.4s fadeIn forwards 1;
 }
 
 .home h1{
@@ -6089,11 +6132,13 @@ body, html{
   padding: 6px 15px;
   display: inline-block;
   text-decoration:none;
-  font-size: 0.8rem
+  font-size: 0.8rem;
+  opacity: 0.4
 }
 
 #languages a.selected {
   background: rgba(0, 0, 0, .4);
+  opacity: 1;
 }
 
 #languages a:first-child {
