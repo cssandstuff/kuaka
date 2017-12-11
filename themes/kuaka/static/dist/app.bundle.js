@@ -7031,6 +7031,10 @@ $(document).ready(function () {
     $('#navMain li').removeClass('selected');
     $(this).addClass('selected');
   });
+
+  $('#pageBg .bg').css('background', 'url(' + $('#pageBg .bg').attr('data-src') + ') no-repeat top center fixed');
+  $('#pageBg .bg').css('background-size', 'cover');
+  $('#pageBg .bg').removeClass('hidden');
 });
 
 $("#contactform").submit(function (e) {
@@ -7054,6 +7058,7 @@ $("#contactform").submit(function (e) {
 // Nifty stuff to load pages asynchronously:
 // https://albertarmea.com/post/async-load-hugo/
 var changeBg = '';
+var transitioning = false;
 function loadPage(newUrl) {
   var httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = function () {
@@ -7090,16 +7095,34 @@ function loadPage(newUrl) {
     }
 
     languagesElement.replaceWith(newLanguage);
-    clearTimeout(changeBg);
 
+    clearTimeout(changeBg);
     downloadingImage.onload = function () {
       //image.src = this.src;   
       changeBg = setTimeout(function () {
-        document.documentElement.style.background = "url(" + newPageBg.value + ") no-repeat center top fixed";
-        document.documentElement.style.backgroundSize = "cover";
-      }, 100);
+        if (!transitioning) {
+
+          console.log('yip');
+          if ($('#pageBg .bgnew').hasClass('hidden')) {
+            $('#pageBg .bgnew').css('background', 'url(' + downloadingImage.src + ') no-repeat top center fixed');
+            $('#pageBg .bgnew').css('background-size', 'cover');
+            $('#pageBg .bgnew').removeClass('hidden');
+            $('#pageBg .bg').addClass('hidden');
+          } else {
+            $('#pageBg .bg').css('background', 'url(' + downloadingImage.src + ') no-repeat top center fixed');
+            $('#pageBg .bg').css('background-size', 'cover');
+            $('#pageBg .bg').removeClass('hidden');
+            $('#pageBg .bgnew').addClass('hidden');
+          }
+
+          setTimeout(function () {
+            transitioning = false;
+          }, 1800);
+        }
+      }, 0);
     };
-    downloadingImage.src = newPageBg.value;
+    downloadingImage.src = $(newPageBg).find('.bg').attr('data-src');
+    //alert(downloadingImage.src);
   };
 
   httpRequest.responseType = "document";

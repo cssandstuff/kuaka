@@ -5925,15 +5925,17 @@ body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 
-html{
-  transition: 2.4s;
+.hidden{
+  opacity: 0;
 }
 
-.bgimage{
-  position: absolute;
+.bg, .bgnew{
+  position: fixed;
   top: 0; left: 0;
   z-index: -1;
   min-width: 100%;
+  min-height: 100%;
+  transition: 1.8s;
 }
 
 .logo{
@@ -6008,10 +6010,14 @@ html{
   background: #fff
 }
 
+.main-content h1 {
+  margin-top: 0;
+}
+
 .main-content article {
   opacity: 0;
-  -webkit-animation: 0.4s fadeIn forwards 1;
-          animation: 0.4s fadeIn forwards 1;
+  -webkit-animation: 1.8s fadeIn forwards 1;
+          animation: 1.8s fadeIn forwards 1;
 }
 
 .home h1{

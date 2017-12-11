@@ -6,10 +6,6 @@
 {{ define "main" }}
   <div class="main-content w-100 w-70-ns flex-l mw9 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
-      <p class="f6 b helvetica tracked">
-        {{/* Humanize removes hyphens and capitalizes the first word */}}
-        {{ humanize .Section | upper  }}
-      </p>
       <h1 class="f1">
         {{ .Title }}
       </h1>

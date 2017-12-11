@@ -1,7 +1,3 @@
-{{ define "bg"}}
-  {{ partial "site-bg-home.html" . }}
-  {{ partial "site-bg-home-jp.html" . }}
-{{ end }}
 {{ define "main" }}
 <div class="main-content w-100 w-70-ns mw9 center home">
   {{ range where .Data.Pages "Title" "Home" }}
