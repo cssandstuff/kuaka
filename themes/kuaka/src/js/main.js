@@ -65,6 +65,7 @@ function loadPage(newUrl) {
     var newNav = httpRequest.responseXML.getElementById("navMain");
     var newLanguage = httpRequest.responseXML.getElementById("languages");
     var newPageBg = httpRequest.responseXML.getElementById("pageBg");
+    var newForm = httpRequest.responseXML.getElementById("form");
 
     if (newContent === null)
       return;
@@ -75,13 +76,12 @@ function loadPage(newUrl) {
     var navElement = document.getElementById("navMain");
     var languagesElement = document.getElementById("languages");
     var pageBg = document.getElementById("pageBg");
-    
-    
+    var contentForm = document.getElementById("form");
     var downloadingImage = new Image();
     
 
     contentElement.replaceWith(newContent);
-    
+    contentForm.replaceWith(newForm);
     if($(languagesElement).find('a:nth-child(1)').hasClass('selected') != $(newLanguage).find('a:nth-child(1)').hasClass('selected')){
       console.log('true');
       navElement.replaceWith(newNav);

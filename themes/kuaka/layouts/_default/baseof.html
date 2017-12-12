@@ -45,10 +45,10 @@
           buttons: {
               choose: {
                   files: {
-                      one: 'Cmon, upload smthng'
+                      one: 'Attach the Document to be translated'
                   },
                   images: {
-                      one: 'Cmon, upload a File'
+                      one: 'Attach the Document to be translated'
                   }
               }
           }
@@ -59,10 +59,12 @@
   <body class="ma0 {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7" role="main" id="mainContent">
+    <main class="" role="main" id="mainContent">
       {{ block "main" . }}{{ end }}
     </main>
-    {{ block "pre-footer" .}}{{end}}
+    {{ block "pre-footer" .}}
+    <div id="form"></div>
+    {{end}}
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
     <div id="pageBg">
