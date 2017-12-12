@@ -7086,6 +7086,24 @@ function loadPage(newUrl) {
 
     contentElement.replaceWith(newContent);
     contentForm.replaceWith(newForm);
+    $("#contactform").submit(function (e) {
+      e.preventDefault();
+      var formData = new FormData(this);
+      console.log(formData);
+      $.ajax({
+        url: 'https://formspree.io/tim@cssandstuff.com',
+        type: 'POST',
+        data: formData,
+        dataType: "json",
+        success: function success(data) {
+          console.log(data);
+        },
+        cache: false,
+        contentType: false,
+        processData: false
+      });
+    });
+
     if ($(languagesElement).find('a:nth-child(1)').hasClass('selected') != $(newLanguage).find('a:nth-child(1)').hasClass('selected')) {
       console.log('true');
       navElement.replaceWith(newNav);

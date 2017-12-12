@@ -9,6 +9,9 @@ body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 
+html{
+  background-color: #1B4350;
+}
 
 .hidden{
   opacity: 0;
