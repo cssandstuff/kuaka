@@ -5,9 +5,9 @@ date: 2017-11-14 20:01:34 +1300
 type: page
 
 ---
-# 日英翻訳    
+# 日英翻訳
 
-## 所在地　ニュージーランド、オークランド市    
+## 所在地　ニュージーランド、オークランド市
 
 電話　+64 9 813 9332
 
@@ -19,11 +19,9 @@ NZSTI（ニュージーランド翻訳者通訳者協会）会員
 
 得意分野は医療翻訳です。
 
- [www.kuakatranslations.co.nz](http://www.kuakatranslations.co.nz)
+[www.kuakatranslations.co.nz](http://www.kuakatranslations.co.nz)
 
- [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
-
- 
+[info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
 クアカ翻訳サービスに翻訳を依頼すべき主な理由
 
@@ -36,5 +34,3 @@ NZSTI（ニュージーランド翻訳者通訳者協会）会員
 * 良心的な料金
 * 迅速かつ質の高い翻訳文書作成
 * 主な翻訳分野：医療系翻訳（医学雑誌など）
-
- 
