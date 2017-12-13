@@ -24,4 +24,4 @@ Full translations: Rates vary depending on the document, but are charged per Jap
 
 Minimum Charges: With the exception of driver’s licence translations, all translations have a minimum charge of $46.
 
-The above rates are subject to change, so please email for a quote.
+The above rates are subject to change, so please [email](mailto:info@kuakatranslations.co.nz) for a quote.
