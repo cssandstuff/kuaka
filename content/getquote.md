@@ -9,28 +9,25 @@ menu:
     weight: 8
 
 ---
-# Please email for a quote *or*
-## Fill in the quote form below, and I *will* get back to you. 
+# Please email for a quote _or_
+
+## Fill in the quote form below, and I will get back to you.
 
 * Attach the document to be translated (if it is a driver’s licence, then both sides)
 * Include any other relevant information such as sections to be translated, or purpose of the translation
 * Include English name spellings if relevant
 * Notify me if you have a specific deadline. Turnaround times are usually 1-3 days depending on content.
 
-
 Translation Quote Form
 
-Name:*
-Email:*
-Organisation or company name:*
+Name:\*
+Email:\*
+Organisation or company name:\*
 Phone Number:
-Translation requirements: [space to enter details]
+Translation requirements: \[space to enter details\]
 Attach the document to be translated:
 Other information:
 
-
-
-[CAPTCHA code]
+\[CAPTCHA code\]
 
 Send
-
