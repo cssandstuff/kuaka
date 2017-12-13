@@ -1,6 +1,6 @@
 ---
 title: About
-bg: "/uploads/2017/12/13/Nagaoka Cosmos.JPG"
+bg: "/uploads/2017/12/13/Waiheke 2.JPG"
 date: 2017-11-12 22:07:07 +1300
 layout: page-with-form
 weight: -1
