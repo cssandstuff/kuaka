@@ -1,6 +1,6 @@
 ---
 title: Pricing
-bg: "/images/river.jpg"
+bg: "/uploads/2017/12/13/Train.JPG"
 date: 2017-11-14 20:01:34 +1300
 type: page
 menu:
