@@ -2,6 +2,7 @@
 title: "アボウト"
 bg: "/images/rainbow.jpg"
 date: 2017-11-12 22:07:07 +1300
+layout: page-with-form
 weight: -1
 type: page
 menu:

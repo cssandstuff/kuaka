@@ -3,7 +3,7 @@ title: Home-JP
 bg: "/images/akl.jpg"
 date: 2017-11-14 20:01:34 +1300
 type: page
-
+layout: page-with-form
 ---
 # 日英翻訳
 

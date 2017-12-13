@@ -3,7 +3,7 @@ title: Home
 bg: "/images/akl.jpg"
 date: 2017-11-15 20:01:34 +1300
 type: page
-
+layout: page-with-form
 ---
 # Professional Japanese _to_ English Translation
 

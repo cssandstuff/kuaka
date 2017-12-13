@@ -20,29 +20,19 @@
  {{ end }} 
 
 {{ define "pre-footer"}}
-{{ if eq .Params.Layout "page-with-form"}}
-<div id="form" class="form-container">
-  <form class="w-100 w-70-ns mw9 center form" id="contactform" action="//formspree.io/tim@cssandstuff.com" method="POST">
-  <h5>Get in Touch</h5>
-      <fieldset class="field">
-          <input class="input" type="text" name="name" placeholder="Your Name" required>
-      </fieldset>
-      <fieldset class="field">
-          <input class="input" type="email" name="_replyto" placeholder="Your Email" required>
-      </fieldset>
-      <fieldset class="field">
-          <input class="input" type="phone" name="phone" placeholder="Your Phone Number" required>
-      </fieldset>
-      <fieldset class="field">
-          <textarea class="input textarea" name="message" rows="1" placeholder="Translation Requirements" required></textarea>
-      </fieldset>
-      <input type="hidden" role="uploadcare-uploader" name="File%20Upload"
-        data-crop="disabled"
-        data-images-only="true" />
-      <fieldset class="field">
-          <input class="button submit" type="submit" value="Send">
-      </fieldset>
-  </form>
-</div>
-{{ end }}
+  {{ range where .Data.Pages "Title" "Home"}}
+    {{ if eq .Params.Layout "page-with-form"}}
+      {{ partial "getquote-form" . }}
+    {{else}}
+      <div id="form"></div>
+    {{ end }}
+  {{end}}
+
+  {{ range where .Data.Pages "Title" "Home-JP"}}
+    {{ if eq .Params.Layout "page-with-form"}}
+      {{ partial "getquote-form-jp" . }}
+    {{else}}
+      <div id="form"></div>
+    {{ end }}
+  {{end}}
 {{ end }}
