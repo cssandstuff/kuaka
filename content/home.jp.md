@@ -1,13 +1,40 @@
 ---
-title: Home-JP
+title: "ホーム"
 bg: "/images/akl.jpg"
 date: 2017-11-14 20:01:34 +1300
 type: page
 
 ---
-# Professional 日本語 *to* English Translation
-## *Based in Auckland New Zealand*
-* Translations for NZTA *( Driver’s Licences )*
-* NZQA *( Graduation certificates, diplomas, qualifications )*
-* Immigration New Zealand *( Visa applications – Family registration documents, work certificates, recommendation letters etc. )*
-* Medical Journal Articles
+# 日英翻訳    
+
+## 所在地　ニュージーランド、オークランド市    
+
+電話　+64 9 813 9332
+
+携帯電話　+64 21 123 7042
+
+NZSTI（ニュージーランド翻訳者通訳者協会）会員
+
+日英翻訳が必要とされる主な文書には、運転免許証（提出先：ニュージーランド運輸省-NZTA）、卒業証書、免状、資格証明書（提出先：ニュージーランド資格認定局-NZQA）のほか、ビザ申請時ニュージーランド移民局から求められる文書（戸籍謄本や抄本、職歴証明書や推薦状など）があります。
+
+得意分野は医療翻訳です。
+
+ [www.kuakatranslations.co.nz](http://www.kuakatranslations.co.nz)
+
+ [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
+
+ 
+
+クアカ翻訳サービスに翻訳を依頼すべき主な理由
+
+* ＮＺＳＴＩ認定日英翻訳
+* 日英翻訳経験１４年以上
+* 幅広い分野で邦人の顧客様・企業様との業務経験が豊富
+* お客様目線での良質なサービス
+* 日本語で対応
+* 迅速に見積もり対応
+* 良心的な料金
+* 迅速かつ質の高い翻訳文書作成
+* 主な翻訳分野：医療系翻訳（医学雑誌など）
+
+ 
