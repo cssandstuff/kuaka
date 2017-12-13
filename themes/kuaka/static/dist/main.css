@@ -5948,6 +5948,9 @@ html{
   margin: 1.7em auto 1.4em;
   text-align: center;
   z-index: 1;
+  height: 40vh;
+  min-height: 100px;
+  max-height: 160px;
 }
 
 .main-nav li{
@@ -6011,7 +6014,9 @@ html{
 }
 
 .main-content{
-  background: #fff
+  background: #fff;
+  margin-bottom: 10em;
+  font-weight: 300
 }
 
 .main-content h1 {
@@ -6022,6 +6027,10 @@ html{
   opacity: 0;
   -webkit-animation: 1.8s fadeIn forwards 1;
           animation: 1.8s fadeIn forwards 1;
+}
+
+.nested-copy-line-height p, .nested-copy-line-height ul, .nested-copy-line-height ol{
+  white-space: pre-wrap;
 }
 
 .home h1{
