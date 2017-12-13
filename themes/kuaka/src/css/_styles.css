@@ -31,6 +31,9 @@ html{
   margin: 1.7em auto 1.4em;
   text-align: center;
   z-index: 1;
+  height: 40vh;
+  min-height: 100px;
+  max-height: 160px;
 }
 .main-nav li{
   transition: 0.3s all;
