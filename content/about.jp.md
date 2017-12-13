@@ -6,7 +6,7 @@ weight: -1
 type: page
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 # 「クアカ翻訳サービス」は、関﨑エリザベスが提供する翻訳サービスの商号です。
