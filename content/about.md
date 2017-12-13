@@ -1,6 +1,6 @@
 ---
 title: About
-bg: "/images/rainbow.jpg"
+bg: "/uploads/2017/12/13/Nagaoka Cosmos.JPG"
 date: 2017-11-12 22:07:07 +1300
 layout: page-with-form
 weight: -1
