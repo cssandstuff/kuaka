@@ -6,7 +6,7 @@ weight: 2
 type: page
 menu:
   main:
-    weight: 3
+    weight: 4
 
 ---
 # お見積もりについて

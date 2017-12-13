@@ -6,7 +6,7 @@ weight: 9
 type: page
 menu:
   main:
-    weight: 4
+    weight: 3
 
 ---
 クアカ翻訳サービス代表　関﨑エリザベス　（日英翻訳）
