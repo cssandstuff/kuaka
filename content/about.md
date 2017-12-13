@@ -10,8 +10,9 @@ menu:
     weight: 5
 
 ---
-# Kuaka Translations *is* 
-## *The Trading Name of Elizabeth Sekizaki*
+# Kuaka Translations _is_
+
+## _The Trading Name of Elizabeth Sekizaki_
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
@@ -29,6 +30,6 @@ My experience includes translating and revising/editing a variety of texts. I ha
 
 Email me for a quote for your professional translation requirements.
 
-Background to Kuaka Translations and the Kuaka Logo
+### Background to Kuaka Translations and the Kuaka Logo
 
 Kuaka means bar-tailed godwit in Maori. The godwits are a migratory bird that fly from New Zealand to Alaska to breed, via Asian countries including Japan. This connection between North and South mirrors my Japanese to English translation work.
