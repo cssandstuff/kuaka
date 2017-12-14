@@ -1,6 +1,6 @@
 ---
 title: Get a Quote
-bg: "/images/rangitoto.jpg"
+bg: "/uploads/2017/12/14/2005_0802 Okinawa.JPG"
 date: 2017-11-12 22:07:07 +1300
 weight: 2
 type: page
