@@ -1,6 +1,6 @@
 ---
 title: "翻訳料金"
-bg: "/images/rangitoto.jpg"
+bg: "/images/rainbow.jpg"
 date: 2017-11-14 20:01:34 +1300
 weight: 3
 type: page
