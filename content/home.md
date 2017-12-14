@@ -1,6 +1,6 @@
 ---
 title: Home
-bg: "/images/akl.jpg"
+bg: "/uploads/2017/12/14/2006_04250031.JPG"
 date: 2017-11-15 20:01:34 +1300
 type: page
 layout: page-with-form
