@@ -1,6 +1,6 @@
 ---
 title: Pricing
-bg: "/uploads/2017/12/14/Tateyama 045.jpg"
+bg: "/uploads/2017/12/15/Mt Yotei.jpg"
 date: 2017-11-14 20:01:34 +1300
 type: page
 menu:
