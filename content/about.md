@@ -28,7 +28,7 @@ Qualifications:
 
 My experience includes translating and revising/editing a variety of texts. I have knowledge of what New Zealand Immigration requires and I also have several years’ experience translating Japanese medical journal articles.
 
-Email me for a quote for your professional translation requirements.
+[Email me](mailto:info@kuakatranslations.co.nz) for a quote for your professional translation requirements.
 
 ### Background to Kuaka Translations and the Kuaka Logo
 
