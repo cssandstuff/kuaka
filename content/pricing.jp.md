@@ -1,6 +1,6 @@
 ---
 title: "翻訳料金"
-bg: "/images/rangitoto.jpg"
+bg: "/uploads/2017/12/14/Ruapehu 2006_07110044.JPG"
 date: 2017-11-14 20:01:34 +1300
 weight: 3
 type: page

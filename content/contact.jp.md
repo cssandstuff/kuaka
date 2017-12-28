@@ -1,6 +1,6 @@
 ---
 title: "お問い合わせ"
-bg: "/images/fuji.jpg"
+bg: "/images/waiheke.jpg"
 date: 2017-11-12 22:07:07 +1300
 weight: 9
 type: page

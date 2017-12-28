@@ -1,6 +1,6 @@
 ---
 title: "お見積もり"
-bg: "/images/rangitoto.jpg"
+bg: "/uploads/2017/12/14/2006_0224 South Island.JPG"
 date: 2017-11-12 22:07:07 +1300
 weight: 2
 type: page
