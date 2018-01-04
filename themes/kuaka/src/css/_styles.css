@@ -4,6 +4,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+a:link, a:active, a:visited{
+  color: #367D9A;
+}
 
 body, html{
   font-family: 'Ubuntu', sans-serif;
@@ -13,13 +16,67 @@ html{
   background-color: #1B4350;
 }
 
+body:before{
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: 0; left: 0;
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to bottom, rgba(16, 30, 63, 0.6) 0%, rgba(16, 30, 63, 0) 100%);
+  
+}
+.nested-img figure.polaroid{
+  width: 34%;
+  padding: 1em;
+  box-shadow: 1px 1px 9px rgba(50,50,50,0.3);
+  float: left;
+  margin: 1.8em 2.4em 1em -0.5em ;
+  transform: rotate(-2deg);
+}
+.nested-img figure.polaroid h4{
+  font-weight: 500;
+  text-transform: none;
+}
+.nested-img figure.polaroid p{
+  margin: 0; line-height: 1;
+  white-space: normal;
+  font-style: italic;
+  color: #387E99;
+  font-size: 1rem;
+}
+.nested-img figure.polaroid + p{
+  margin-top: 2em;
+}
+.nested-img figure.polaroid + p + p + h3{
+  clear: both;
+  padding-top: 2em;
+}
+blockquote{
+  margin-left: 1.5em;
+}
+blockquote p{
+  position: relative;
+  font-style: italic;
+}
+blockquote p:before{
+  content: '\201C';
+  font-weight: 800;
+  font-size: 2.8em;
+  font-family: Georgia;
+  position: absolute;
+  left: -34px;
+  opacity: 0.2;
+  top: -20px;
+  font-style: normal;
+}
 .hidden{
   opacity: 0;
 }
 .bg, .bgnew{
   position: fixed;
   top: 0; left: 0;
-  z-index: -1;
+  z-index: -2;
   min-width: 100%;
   min-height: 100%;
   transition: 1.8s;
@@ -33,7 +90,7 @@ html{
   z-index: 1;
   height: 40vh;
   min-height: 100px;
-  max-height: 160px;
+  max-height: 154px;
 }
 .main-nav li{
   transition: 0.3s all;
@@ -80,6 +137,9 @@ html{
     opacity: 1;
   }
 }
+#mainContent{
+  margin-bottom: 17em;
+}
 .main-content{
   background: #fff;
   margin-bottom: 10em;
@@ -94,7 +154,7 @@ html{
   }
 }
 
-.nested-copy-line-height p, .nested-copy-line-height ul, .nested-copy-line-height ol{
+.nested-copy-line-height p{
   white-space: pre-wrap;
 }
 
@@ -113,7 +173,7 @@ html{
 .home ul{
   font-weight:300;
   max-width: 32em;
-  padding: 0 0 4em 1em;
+  padding: 0 0 1em 1em;
 }
 .home ul em{
   font-size: 0.72em;
@@ -228,6 +288,9 @@ html{
     font-size: 1.6rem;
     padding-left: 0.5em;
     margin: 0 0 0.2em;
+    text-transform: none;
+    font-size: 1.4rem;
+    background: none;
   }
 }
 .form-container .field{
@@ -235,7 +298,7 @@ html{
   & .input{
     border-radius: 3px;
     padding: 0.8em;
-    background: rgba(255,255,255,0.06);
+    background: rgba(255,255,255,0.14);
     color: #fff;
     border: 0;
     font-family: 'Ubuntu', sans-serif;
@@ -247,7 +310,7 @@ html{
       background: rgba(255,255,255,0.11);
     }
     &::placeholder{
-      color: rgba(255,255,255,0.26);
+      color: rgba(255,255,255,0.46);
       font-style: italic;
       font-weight: 300;
     }
@@ -310,7 +373,7 @@ input.submit{
   margin-bottom: 5em;
 }
 article{
-  & h4{
+  & h4, & h5{
     font-weight: 600;
     text-transform: uppercase;
     font-size: 0.95rem;
@@ -319,5 +382,12 @@ article{
     & + p{
       margin-top: 0;
     }
+  }
+  & h5{
+    background: #fff4b5;
+    padding: 3px 7px;
+    display: inline-block;
+    margin-left: -7px;
+    margin-bottom: 4px;
   }
 }

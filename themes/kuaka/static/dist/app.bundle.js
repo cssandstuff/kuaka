@@ -7065,6 +7065,7 @@ function loadPage(newUrl) {
     if (httpRequest.readyState !== XMLHttpRequest.DONE) return;
 
     var newDocument = httpRequest.responseXML;
+    console.log(newDocument.getElementById("mainContent"));
     if (newDocument === null) return;
 
     var newContent = httpRequest.responseXML.getElementById("mainContent");
@@ -7085,7 +7086,11 @@ function loadPage(newUrl) {
     var downloadingImage = new Image();
 
     contentElement.replaceWith(newContent);
-    contentForm.replaceWith(newForm);
+    if (contentElement.children[0].classList.contains('onpageform')) {
+      //nothing
+    } else {
+      contentForm.replaceWith(newForm);
+    }
     $("#contactform").submit(function (e) {
       e.preventDefault();
       var formData = new FormData(this);

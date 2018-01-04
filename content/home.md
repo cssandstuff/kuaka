@@ -15,30 +15,25 @@ layout: page-with-form
 * Immigration New Zealand _( Visa applications – Family registration documents, work certificates, recommendation letters etc. )_
 * Medical Journal Articles
 
-Why use Kuaka Translations?
+### Why use Kuaka Translations?
 
-·         Qualified translator recognised by NZSTI
+* Qualified translator recognised by NZSTI
+* Over 14 years’ experience
+* Extensive experience with Japanese clients
+* Personalised service
+* Fluent Japanese speaker
+* Prompt replies to requests for quotations
+* Competitive rates
+* Professional, timely and high quality translations
+* Medical translations a specialty.
 
-·         Over 14 years’ experience
+### Testimonials
+> First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally.
 
-·         Extensive experience with Japanese clients
+> Liz has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again!
 
-·         Personalised service
+> Since I started my immigration business in the beginning of 2015, I have been very happy with your services. You respond to my emails very quickly. You have strong professional ethics, which makes me feel comfortable to deal with you.
 
-·         Fluent Japanese speaker
+> I found your service always very professional and articulate.
 
-·         Prompt replies to requests for quotations
-
-·         Competitive rates
-
-·         Professional, timely and high quality translations
-
-·         Medical translations a specialty.
-
-Testimonials
-
-* First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally. 
-* Liz has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again! 
-* Since I started my immigration business in the beginning of 2015, I have been very happy with your services. You respond to my emails very quickly. You have strong professional ethics, which makes me feel comfortable to deal with you.    
-* I found your service always very professional and articulate.    
-* Thank you very much for the perfect translation! 
+> Thank you very much for the perfect translation!

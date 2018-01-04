@@ -3,11 +3,12 @@
 {{ end }}
 {{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="main-content w-100 w-70-ns mw9 center home">
+  <div class="main-content onpageform w-100 w-70-ns mw9 center home">
     <article class="center cf pv5 ph5">
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
       </div>
+      <div id="onPageForm">
       {{ $currentPage := . }}
       {{ if .IsTranslated }}
         {{ range $i, $e := .Translations }}
@@ -20,7 +21,10 @@
           {{ end }}
         {{ end}}
       {{ end }}
+      </div>
     </article>
+    
     {{ partial "site-contact-info.html" . }}
+
   </div>
 {{ end }}

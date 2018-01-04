@@ -13,7 +13,7 @@ menu:
 # Elizabeth Sekizaki
 ## Japanese to English Translator, *trading as Kuaka Translations*
 
-#### Direct contact:
+##### Direct contact:
 info@kuakatranslations.co.nz
 
 #### NZ clients:
