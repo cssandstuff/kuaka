@@ -17,7 +17,7 @@ layout: page-with-form
 
 ### Why use Kuaka Translations?
 
-* Qualified translator recognised by NZSTI
+* Qualified translator [recognised by NZSTI](https://www.nzsti.org/)
 * Over 14 years’ experience
 * Extensive experience with Japanese clients
 * Personalised service

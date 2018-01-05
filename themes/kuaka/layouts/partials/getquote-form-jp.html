@@ -1,23 +1,26 @@
 <div id="form" class="form-container">
   <form class="w-100 w-70-ns mw9 center form" id="contactform" action="//formspree.io/tim@cssandstuff.com" method="POST">
-  <h5>問い合わせ</h5>
+  <h5>問い合わせ </h5><span>（*印は、必須項目）</span>
       <fieldset class="field">
-          <input class="input" type="text" name="name" placeholder="Your Name" required>
+          <input class="input" type="text" name="name" placeholder="お名前  姓：名： *" required>
       </fieldset>
       <fieldset class="field">
-          <input class="input" type="email" name="_replyto" placeholder="Your Email" required>
+          <input class="input" type="text" name="organisation" placeholder="団体・法人名">
       </fieldset>
       <fieldset class="field">
-          <input class="input" type="phone" name="phone" placeholder="Your Phone Number" required>
+          <input class="input" type="email" name="_replyto" placeholder="電子メールアドレス *" required>
       </fieldset>
+      
       <fieldset class="field">
-          <textarea class="input textarea" name="message" rows="1" placeholder="Translation Requirements" required></textarea>
+          <textarea class="input textarea" name="message" rows="1" placeholder="お問い合わせ内容 *" required></textarea>
       </fieldset>
       <input type="hidden" role="uploadcare-uploader" name="File%20Upload"
         data-crop="disabled"
         data-images-only="true" />
       <fieldset class="field">
-          <input class="button submit" type="submit" value="Send">
+          <input class="button submit" type="submit" value="送信">
       </fieldset>
+
+      
   </form>
 </div>

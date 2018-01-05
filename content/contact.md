@@ -17,12 +17,12 @@ menu:
 info@kuakatranslations.co.nz
 
 #### NZ clients:
-021 123 7042
-09 813 9332 
+Ph: 021 123 7042
+Ph: 09 813 9332 
 
 #### If calling from overseas/outside New Zealand
-+64 21 123 7042
-+64 9 813 9332
+Ph: +64 21 123 7042
+Ph: +64 9 813 9332
 
 #### Postal contact:
 1/95A Captain Scott Road,

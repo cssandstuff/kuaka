@@ -21,7 +21,6 @@ NZSTI（ニュージーランド翻訳者通訳者協会）会員
 得意分野は医療翻訳です。
 
 [www.kuakatranslations.co.nz](http://www.kuakatranslations.co.nz)
-
 [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
 クアカ翻訳サービスに翻訳を依頼すべき主な理由

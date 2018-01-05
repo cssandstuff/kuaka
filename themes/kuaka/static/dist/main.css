@@ -5925,12 +5925,16 @@ a:link, a:active, a:visited{
   color: #367D9A;
 }
 
+.nested-links a:hover{
+  color: #00a5dd;
+}
+
 body, html{
   font-family: 'Ubuntu', sans-serif;
 }
 
 html{
-  background-color: #1B4350;
+  background-color: #0e1c32;
 }
 
 body:before{
@@ -6162,7 +6166,16 @@ blockquote p:before{
   padding: 1.4em;
   border-radius: 4px;
   width: 230px;
+  color: #fff
+}
+
+.nzsti a {
   color: #fff;
+  text-decoration: none;
+}
+
+.nzsti a:hover {
+  text-decoration: underline;
 }
 
 .nzsti h6{
@@ -6253,6 +6266,10 @@ blockquote p:before{
   background: none;
 }
 
+.form-container h5 + span {
+  color: #fff;
+}
+
 .form-container .field{
   border: none
 }
@@ -6308,6 +6325,10 @@ article .form-container {
 article .form-container h5 {
   color: rgba(23, 53, 77, .95);
   padding-left: 0;
+}
+
+article .form-container h5 + span {
+  color: rgba(23, 53, 77, .95);
 }
 
 article .form-container fieldset {
