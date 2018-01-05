@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/about/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/getquote/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/getquote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/getquote/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/contact/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/home/</loc>
+    <lastmod>2017-11-15T20:01:34+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/home/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/pricing/</loc>
+    <lastmod>2017-11-14T20:01:34+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cssandstuff.github.io/kuaka/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://cssandstuff.github.io/kuaka/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cssandstuff.github.io/kuaka/tags/"
+                />
+  </url>
+  
+</urlset>
