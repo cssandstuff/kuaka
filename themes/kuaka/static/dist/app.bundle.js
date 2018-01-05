@@ -7082,14 +7082,20 @@ function loadPage(newUrl) {
     var navElement = document.getElementById("navMain");
     var languagesElement = document.getElementById("languages");
     var pageBg = document.getElementById("pageBg");
-    var contentForm = document.getElementById("form");
+    var contentForm = document.getElementById("formHolder");
     var downloadingImage = new Image();
 
     contentElement.replaceWith(newContent);
-    if (contentElement.children[0].classList.contains('onpageform')) {
-      //nothing
+    if ($('.main-content').hasClass('onpageform')) {
+      //remove form
+      $('#formHolder').empty();
     } else {
-      contentForm.replaceWith(newForm);
+      $('#formHolder').empty();
+      if (newForm != null) {
+        $('#formHolder').append(newForm);
+      }
+
+      // contentForm.replaceChild(newForm);
     }
     $("#contactform").submit(function (e) {
       e.preventDefault();
@@ -7126,7 +7132,7 @@ function loadPage(newUrl) {
       changeBg = setTimeout(function () {
         if (!transitioning) {
 
-          console.log('yip');
+          //console.log('yip');
           if ($('#pageBg .bgnew').hasClass('hidden')) {
             $('#pageBg .bgnew').css('background', 'url(' + downloadingImage.src + ') no-repeat top center fixed');
             $('#pageBg .bgnew').css('background-size', 'cover');
@@ -7160,7 +7166,6 @@ window.onload = function () {
     if (event.target.tagName !== "A") return;
 
     if (history === null) return;
-
     var newUrl = event.target.href;
     var domain = window.location.origin;
     if (typeof domain !== "string" || newUrl.search(domain) !== 0) {
