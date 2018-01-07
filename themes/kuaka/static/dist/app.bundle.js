@@ -7024,19 +7024,13 @@ var $ = __webpack_require__(62);
 //
 // You can also "require" any script from its location in the node modules folder. Webpack often knows what to look for, but you can add a script directly like this:
 // var javascriptthingy = require('name/folder/file.js');
-
-$(document).ready(function () {
-  console.log('hello');
-  $('#navMain li').stop().click(function () {
-    $('#navMain li').removeClass('selected');
-    $(this).addClass('selected');
-  });
-
+function updateLangs() {
   var internalUploadcare;
   uploadcare.plugin(function (internal) {
     internalUploadcare = internal;
   });
-  $('#languages a').on('click', function () {
+  console.log('homo');
+  $('#languages a').off().on('click', function () {
     var locale = $(this).data('lang');
     console.log(locale);
     internalUploadcare.locale.rebuild({
@@ -7045,6 +7039,13 @@ $(document).ready(function () {
 
     $('#uploader').html($('#uploader input:eq(0)'));
     uploadcare.initialize($('#uploader'));
+  });
+}
+$(document).ready(function () {
+  updateLangs();
+  $('#navMain li').stop().click(function () {
+    $('#navMain li').removeClass('selected');
+    $(this).addClass('selected');
   });
 
   $('#pageBg .bg').css('background', 'url(' + $('#pageBg .bg').attr('data-src') + ') no-repeat top center fixed');
@@ -7130,7 +7131,6 @@ function loadPage(newUrl) {
     });
 
     if ($(languagesElement).find('a:nth-child(1)').hasClass('selected') != $(newLanguage).find('a:nth-child(1)').hasClass('selected')) {
-      console.log('true');
       navElement.replaceWith(newNav);
       $('#navMain li').stop().click(function () {
         $('#navMain li').removeClass('selected');
@@ -7139,6 +7139,7 @@ function loadPage(newUrl) {
     }
 
     languagesElement.replaceWith(newLanguage);
+    updateLangs();
 
     clearTimeout(changeBg);
     downloadingImage.onload = function () {
