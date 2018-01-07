@@ -366,11 +366,42 @@ article{
     }
     & .uploadcare--widget__button{
       color: rgba(23, 53, 77, .95);
-      padding-left: 0;
+      position: relative;
+      margin-left: 0;
+      border-color: rgba(13, 135, 175,0.1);
+      &:before{
+        background: url('/kuaka/images/attach.png') no-repeat;
+        background-size: 100%;
+      }
+      &:hover{
+        background: rgba(13, 135, 175, 0.14) !important;
+        border-color: rgba(13, 135, 175,0.2);
+      }
     }
   }
 }
-
+.uploadcare--widget__button{
+  padding: 9px 19px 9px 30px;
+  position: relative;
+  margin-left: 13px;
+  margin-bottom: 6px;
+  border: 1px solid rgba(255,255,255,0.1);
+  cursor: pointer;
+  &:hover{
+    background: #0d87af80 !important;
+    border-color: transparent;
+  }
+   &:before{
+    content:'';
+    background: url('/kuaka/images/attach-white.png') no-repeat;
+    position: absolute;
+    left: 8px;
+    top: 5px;
+    width: 13px; 
+    height: 24px;
+    background-size: 100%;
+  }
+}
 .uploadcare--widget__button_type_open:focus, .uploadcare--widget__button_type_open:hover, 
 .uploadcare--widget__button_type_open{
   background: none;
@@ -379,14 +410,19 @@ article{
 }
 
 input.submit{
+  cursor: pointer;
   background: #0D87AF;
   color: #fff;
-  padding: 5px 10px;
+  padding: 11px 19px;
   border: none;
   border-radius: 4px;
   font-family: 'Ubuntu', Sans-serif;
   font-weight: 800;
   margin-bottom: 5em;
+  transition: 0.3s all;
+  &:hover{
+    background: #1a517c;
+  }
 }
 article{
   & h4, & h5{

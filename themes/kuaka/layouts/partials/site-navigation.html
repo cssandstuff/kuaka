@@ -18,7 +18,8 @@
   {{ if .IsTranslated }}
     {{ range $i, $e := .Translations }}
       {{ if eq $e.Language.LanguageName "Japanese" }}
-      <a class="selected" href="{{ $currentPage.Permalink }}">English</a>{{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>{{ if eq $e.Language.LanguageName "English" }}<a class="selected" href="{{ $currentPage.Permalink }}">Japanese</a>
+      <a class="selected" data-lang="en" href="{{ $currentPage.Permalink }}">English</a><a data-lang="ja" href="{{ .Permalink }}">Japanese</a>{{ end }}{{ if eq $e.Language.LanguageName "English" }}
+      <a data-lang="en" href="{{ .Permalink }}">English</a><a data-lang="ja" class="selected" href="{{ $currentPage.Permalink }}">Japanese</a>
       {{ end }}
     {{ end}}
   {{ end }}

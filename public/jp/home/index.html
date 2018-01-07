@@ -80,21 +80,10 @@ www.kuakatranslations.co.nz info@kuakatranslations.co.nz
 
     <script charset="utf-8" src="//ucarecdn.com/libs/widget/3.2.1/uploadcare.full.min.js"></script>
     <script>
-      UPLOADCARE_LOCALE = "en";
+      
       UPLOADCARE_TABS = "file url gdrive dropbox skydrive";
       UPLOADCARE_PUBLIC_KEY = "ec167e50c204fa8a764d";
-      UPLOADCARE_LOCALE_TRANSLATIONS = {
-          buttons: {
-              choose: {
-                  files: {
-                      one: 'Attach the Document to be translated'
-                  },
-                  images: {
-                      one: 'Attach the Document to be translated'
-                  }
-              }
-          }
-      };
+     
   </script>
   </head>
 
@@ -145,7 +134,8 @@ www.kuakatranslations.co.nz info@kuakatranslations.co.nz
   
   
     
-      <a href="https://cssandstuff.github.io/kuaka/home/">English</a><a class="selected" href="https://cssandstuff.github.io/kuaka/jp/home/">Japanese</a>
+      
+      <a data-lang="en" href="https://cssandstuff.github.io/kuaka/home/">English</a><a data-lang="ja" class="selected" href="https://cssandstuff.github.io/kuaka/jp/home/">Japanese</a>
       
     
   
@@ -231,7 +221,7 @@ www.kuakatranslations.co.nz info@kuakatranslations.co.nz
       <fieldset class="field">
           <textarea class="input textarea" name="message" rows="1" placeholder="お問い合わせ内容 *" required></textarea>
       </fieldset>
-      <input type="hidden" role="uploadcare-uploader" name="File%20Upload"
+      <input type="hidden" id="uploader" role="uploadcare-uploader" name="File%20Upload"
         data-crop="disabled"
         data-images-only="true" />
       <fieldset class="field">

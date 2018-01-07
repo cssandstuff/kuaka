@@ -7032,6 +7032,21 @@ $(document).ready(function () {
     $(this).addClass('selected');
   });
 
+  var internalUploadcare;
+  uploadcare.plugin(function (internal) {
+    internalUploadcare = internal;
+  });
+  $('#languages a').on('click', function () {
+    var locale = $(this).data('lang');
+    console.log(locale);
+    internalUploadcare.locale.rebuild({
+      locale: locale
+    });
+
+    $('#uploader').html($('#uploader input:eq(0)'));
+    uploadcare.initialize($('#uploader'));
+  });
+
   $('#pageBg .bg').css('background', 'url(' + $('#pageBg .bg').attr('data-src') + ') no-repeat top center fixed');
   $('#pageBg .bg').css('background-size', 'cover');
   $('#pageBg .bg').removeClass('hidden');
@@ -7094,9 +7109,8 @@ function loadPage(newUrl) {
       if (newForm != null) {
         $('#formHolder').append(newForm);
       }
-
-      // contentForm.replaceChild(newForm);
     }
+
     $("#contactform").submit(function (e) {
       e.preventDefault();
       var formData = new FormData(this);

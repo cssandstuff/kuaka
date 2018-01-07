@@ -62,21 +62,10 @@ I am an English speaker, born in New Zealand but fluent in Japanese after a numb
 
     <script charset="utf-8" src="//ucarecdn.com/libs/widget/3.2.1/uploadcare.full.min.js"></script>
     <script>
-      UPLOADCARE_LOCALE = "en";
+      
       UPLOADCARE_TABS = "file url gdrive dropbox skydrive";
       UPLOADCARE_PUBLIC_KEY = "ec167e50c204fa8a764d";
-      UPLOADCARE_LOCALE_TRANSLATIONS = {
-          buttons: {
-              choose: {
-                  files: {
-                      one: 'Attach the Document to be translated'
-                  },
-                  images: {
-                      one: 'Attach the Document to be translated'
-                  }
-              }
-          }
-      };
+     
   </script>
   </head>
 
@@ -128,7 +117,7 @@ I am an English speaker, born in New Zealand but fluent in Japanese after a numb
   
     
       
-      <a class="selected" href="https://cssandstuff.github.io/kuaka/about/">English</a><a href="https://cssandstuff.github.io/kuaka/jp/about/">Japanese</a>
+      <a class="selected" data-lang="en" href="https://cssandstuff.github.io/kuaka/about/">English</a><a data-lang="ja" href="https://cssandstuff.github.io/kuaka/jp/about/">Japanese</a>
     
   
 </div>
@@ -224,7 +213,7 @@ I am an English speaker, born in New Zealand but fluent in Japanese after a numb
       <fieldset class="field">
           <textarea class="input textarea" name="message" rows="1" placeholder="Translation Requirements" required></textarea>
       </fieldset>
-      <input type="hidden" role="uploadcare-uploader" name="File%20Upload"
+      <input type="hidden" id="uploader" role="uploadcare-uploader" name="File%20Upload"
         data-crop="disabled"
         data-images-only="true" />
       <fieldset class="field">
