@@ -13,7 +13,8 @@ menu:
 # クアカ翻訳サービス代表　
 ## 関﨑エリザベス（日英翻訳）
 
-お問い合わせ先：info@kuakatranslations.co.nz
+##### お問い合わせ先：
+[info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
 #### 電話番号：
 021 123 7042

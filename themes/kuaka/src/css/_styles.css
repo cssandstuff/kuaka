@@ -334,6 +334,9 @@ blockquote p:before{
 }
 /* overrides */
 article{
+  & h5 + h4{
+    margin: 0 0 2em;
+  }
   & .form-container{
     background: none;
     & h5{
