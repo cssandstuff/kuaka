@@ -19,7 +19,7 @@ function updateLangs(){
   uploadcare.plugin(function(internal) {
     internalUploadcare = internal;
   });
-  console.log('homo');
+
   $('#languages a').off().on('click', function() {
     var locale = $(this).data('lang');
     console.log(locale);
@@ -140,7 +140,7 @@ function loadPage(newUrl) {
     
     languagesElement.replaceWith(newLanguage);
     updateLangs();
-    
+
     clearTimeout(changeBg);
     downloadingImage.onload = function(){
       //image.src = this.src;   

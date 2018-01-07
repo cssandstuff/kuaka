@@ -7029,7 +7029,7 @@ function updateLangs() {
   uploadcare.plugin(function (internal) {
     internalUploadcare = internal;
   });
-  console.log('homo');
+
   $('#languages a').off().on('click', function () {
     var locale = $(this).data('lang');
     console.log(locale);
