@@ -12,7 +12,7 @@ menu:
 ---
 # Please email for a quote _or_
 
-## Fill in the quote form below, and I will get back to you.
+## Fill in the quote form below.
 
 * Attach the document to be translated (if it is a driver’s licence, then both sides)
 * Include any other relevant information such as sections to be translated, or purpose of the translation
