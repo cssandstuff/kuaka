@@ -29,7 +29,7 @@ Graduation certificates, diplomas, qualifications
 
 ### Immigration Documents
 
-Visa applications - Family registrations, work certificates {{% /homefeature %}}
+Visa applications - Family registrations, work certificates, recommendation letters etc. {{% /homefeature %}}
 
 {{% homefeature medical %}}
 
