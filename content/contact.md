@@ -20,13 +20,13 @@ info@kuakatranslations.co.nz
 
 #### NZ clients:
 
-Ph: 021 123 7042
-Ph: 09 813 9332
+Phone: 09 813 9332  
+Mobile: 021 123 7042
 
 #### If calling from outside New Zealand:
 
-Ph: +64 21 123 7042
-Ph: +64 9 813 9332
+Phone: +64 9 813 9332   
+Mobile: +64 21 123 7042
 
 #### Location:
 
