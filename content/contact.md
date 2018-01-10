@@ -11,20 +11,25 @@ menu:
 
 ---
 # Elizabeth Sekizaki
-## Japanese to English Translator, *trading as Kuaka Translations*
 
-##### Direct contact:
+## Japanese to English Translator, _trading as Kuaka Translations_
+
+#### Direct contact:
+
 info@kuakatranslations.co.nz
 
 #### NZ clients:
+
 Ph: 021 123 7042
-Ph: 09 813 9332 
+Ph: 09 813 9332
 
 #### If calling from overseas/outside New Zealand
+
 Ph: +64 21 123 7042
 Ph: +64 9 813 9332
 
 #### Postal contact:
+
 1/95A Captain Scott Road,
 Glen Eden
 Auckland 0602
