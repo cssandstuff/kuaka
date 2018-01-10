@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="35px" viewBox="0 0 49 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>nzta</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="43.0915712" height="29.5294807" rx="3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(-103.000000, -58.000000)">
+            <g id="nzta" transform="translate(105.741525, 60.566038)">
+                <g id="drivers-license">
+                    <g id="Combined-Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <rect stroke="#143953" stroke-width="2.5" x="-1.25" y="-1.25" width="45.5915712" height="32.0294807" rx="3"></rect>
+                        <path d="M11.3712075,20.3434299 C9.45217864,19.1050516 8.15394796,16.7299405 8.15394796,14.0033505 C8.15394796,9.99853557 10.9547157,6.75199161 14.4096377,6.75199161 C17.8645598,6.75199161 20.6653275,9.99853557 20.6653275,14.0033505 C20.6653275,16.7687865 19.3298412,19.1726572 17.36567,20.3956653 C21.0686348,21.3979909 23.7931724,24.7857822 23.7931724,28.7961226 C23.7931724,33.6019005 19.8918609,37.4977532 15.0898188,37.4977532 L13.4451071,37.4977532 C8.63837766,37.4977532 4.74175355,33.5921217 4.74175355,28.7961226 C4.74175355,24.7054388 7.56842318,21.2740353 11.3712075,20.3434299 Z" stroke="#143953" stroke-width="2.5" fill="#EDF0F2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-path" fill="#143953" fill-rule="nonzero" x="25.7702986" y="13.3841788" width="9.82464993" height="2.04554256"></rect>
+                <rect id="Rectangle-path" fill="#143953" fill-rule="nonzero" x="25.850212" y="7.2475511" width="12.3724778" height="2.04554256"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

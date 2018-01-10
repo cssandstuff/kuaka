@@ -10,10 +10,27 @@ layout: page-with-form
 
 ## _Based in Auckland New Zealand_
 
-* Translations for NZTA _( Driver’s Licences )_
-* NZQA _( Graduation certificates, diplomas, qualifications )_
-* Immigration New Zealand _( Visa applications – Family registration documents, work certificates, recommendation letters etc. )_
-* Medical Journal Articles
+##### _We specialize in:_
+{{< homefeatures >}}
+{{% homefeature nzta %}}
+### Translations for NZTA
+Drivers Licences
+{{% /homefeature %}}
+
+{{% homefeature nzqa %}}
+### NZQA
+Graduation certificates, diplomas, qualifications
+{{% /homefeature %}}
+
+{{% homefeature immigration %}}
+### Immigration NZ
+Visa applications Family registrations, work certificates
+{{% /homefeature %}}
+
+{{% homefeature medical %}}
+### Medical Journal Articles
+{{% /homefeature %}}
+{{< /homefeatures >}}
 
 ### Why use Kuaka Translations?
 
