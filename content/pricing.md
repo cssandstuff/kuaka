@@ -12,10 +12,9 @@ menu:
 
 ## So please email/call for a quote _or fill in the quote form._
 
-All prices below include GST (15%).
-If you are outside of New Zealand, GST does not apply to my services.
+All prices below include GST (15%). If you are outside New Zealand, GST does not apply to my services.
 
-The following is a guide to pricing for frequently ordered translations, in New Zealand Dollars:
+The following is a guide to pricing for frequently ordered translations in New Zealand Dollars:
 
 Driver’s licence translation (NZTA format): $40
 Family registration certificate – selective translation: $46 for up to three family members
