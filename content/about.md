@@ -10,7 +10,7 @@ menu:
     weight: 5
 
 ---
-# Kuaka Translations _is_
+# Kuaka Translations is
 
 ## _the trading name of Elizabeth Sekizaki_
 
