@@ -10,7 +10,7 @@ layout: page-with-form
 
 ## _Based in Auckland New Zealand_
 
-##### _We specialize in:_
+##### _We specialise in:_
 {{< homefeatures >}}
 {{% homefeature nzta %}}
 ### Translations for NZTA
@@ -18,12 +18,12 @@ Drivers Licences
 {{% /homefeature %}}
 
 {{% homefeature nzqa %}}
-### NZQA
+### Translations for NZQA
 Graduation certificates, diplomas, qualifications
 {{% /homefeature %}}
 
 {{% homefeature immigration %}}
-### Immigration NZ
+### Immigration Documents
 Visa applications Family registrations, work certificates
 {{% /homefeature %}}
 
