@@ -17,4 +17,4 @@ menu:
 * Attach the document to be translated (if it is a driver’s licence, then both sides)
 * Include any other relevant information such as sections to be translated, or purpose of the translation
 * Include English name spellings if relevant
-* Notify me if you have a specific deadline. Turnaround times are usually 1-3 days depending on content.
+* Indicate if you have a specific deadline. Turnaround times are usually 1-3 days depending on content.
