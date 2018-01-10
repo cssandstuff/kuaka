@@ -10,25 +10,34 @@ layout: page-with-form
 
 ## _Based in Auckland New Zealand_
 
-##### _We specialise in:_
+##### _Kuaka Translations specialises in:_
+
 {{< homefeatures >}}
 {{% homefeature nzta %}}
+
 ### Translations for NZTA
+
 Drivers Licences
 {{% /homefeature %}}
 
 {{% homefeature nzqa %}}
+
 ### Translations for NZQA
+
 Graduation certificates, diplomas, qualifications
 {{% /homefeature %}}
 
 {{% homefeature immigration %}}
+
 ### Immigration Documents
+
 Visa applications Family registrations, work certificates
 {{% /homefeature %}}
 
 {{% homefeature medical %}}
+
 ### Medical Journal Articles
+
 {{% /homefeature %}}
 {{< /homefeatures >}}
 
@@ -45,6 +54,7 @@ Visa applications Family registrations, work certificates
 * Medical translations a specialty.
 
 ### Testimonials
+
 > First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally.
 
 > Liz has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again!
