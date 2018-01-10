@@ -10,8 +10,6 @@ layout: page-with-form
 
 ## _Based in Auckland New Zealand_
 
-##### _Kuaka Translations specialises in:_
-
 {{< homefeatures >}}
 {{% homefeature nzta %}}
 
