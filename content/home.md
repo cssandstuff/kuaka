@@ -8,7 +8,7 @@ layout: page-with-form
 ---
 # Professional Japanese _to_ English Translation
 
-## _Based in Auckland New Zealand_
+## _Based in Auckland, New Zealand_
 
 {{< homefeatures >}}
 {{% homefeature nzta %}}
