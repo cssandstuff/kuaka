@@ -8,7 +8,7 @@ menu:
     weight: 6
 
 ---
-# Every project _is_ different
+# Every project is different
 
 ## So please email/call for a quote _or fill in the quote form._
 
