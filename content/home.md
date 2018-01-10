@@ -57,7 +57,7 @@ Visa applications Family registrations, work certificates
 
 > First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally.
 
-> Liz has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again!
+> Elizabeth has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again!
 
 > Since I started my immigration business in the beginning of 2015, I have been very happy with your services. You respond to my emails very quickly. You have strong professional ethics, which makes me feel comfortable to deal with you.
 
