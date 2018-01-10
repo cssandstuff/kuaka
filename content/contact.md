@@ -23,7 +23,7 @@ info@kuakatranslations.co.nz
 Ph: 021 123 7042
 Ph: 09 813 9332
 
-#### If calling from overseas/outside New Zealand
+#### If calling from outside New Zealand
 
 Ph: +64 21 123 7042
 Ph: +64 9 813 9332
