@@ -33,10 +33,9 @@ Visa applications - Family registrations, work certificates, recommendation lett
 
 {{% homefeature medical %}}
 
-### Medical Journal Articles
+### Academic Writing
 
-{{% /homefeature %}}
-{{< /homefeatures >}}
+Medical Journal articles, academic curricula {{% /homefeature %}} {{< /homefeatures >}}
 
 ### Why use Kuaka Translations?
 
