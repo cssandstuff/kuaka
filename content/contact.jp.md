@@ -10,13 +10,16 @@ menu:
     weight: 3
 
 ---
-# クアカ翻訳サービス代表　
+# クアカ翻訳サービス代表
+
 ## 関﨑エリザベス（日英翻訳）
 
 ##### お問い合わせ先：
+
 [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
 #### 電話番号：
+
 021 123 7042
 09 813 9332
 
@@ -25,6 +28,6 @@ menu:
 \+64 21 123 7042
 \+64 9 813 9332
 
-#### 書類等を郵送される場合の送付先：
+#### 所在地：
 
-1/95A Captain Scott Road, Glen Eden, Auckland 0602
+Glen Eden, Auckland
