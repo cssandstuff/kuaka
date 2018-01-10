@@ -13,7 +13,8 @@ menu:
 # Kuaka Translations _is_
 
 ## _The Trading Name of Elizabeth Sekizaki_
-{{< figure src="/kuaka/images/liz.jpg" class="polaroid" title="Attending FIT Conference" caption="Brisbane 2017" >}}
+
+{{< figure src="/kuaka/images/liz.jpg" class="polaroid" title="Attending FIT (International Federation of Translators) Congress" caption="Brisbane 2017" >}}
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
