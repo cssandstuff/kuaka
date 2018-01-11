@@ -6124,7 +6124,7 @@ blockquote p:before{
 
 .home ul{
   font-weight:300;
-  max-width: 32em;
+  max-width: 42em;
   padding: 1px 0 1em 1em;
   clear: both;
 }
@@ -6457,12 +6457,13 @@ article h4 + p, article h5 + p {
 }
 
 article h5 {
-  background: #fff4b5;
-  padding: 3px 7px;
+  background: rgba(138, 190, 218, 0.34902);
+  padding: 3px 14px;
   display: inline-block;
-  margin-left: -7px;
+  margin-left: -13px;
   margin-bottom: 4px;
   letter-spacing: 0.03em;
+  border-radius: 1em;
 }
 
 .homefeatures{
@@ -6484,7 +6485,7 @@ article h5 {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  padding-top: 0.2em;
+  padding-top: 2.2em;
   margin-bottom: 2em;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;

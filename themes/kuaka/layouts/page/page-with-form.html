@@ -17,10 +17,12 @@
   {{ if .IsTranslated }}
     {{ range $i, $e := .Translations }}
       {{ if eq $e.Language.LanguageName "Japanese" }}
+        <h5>Translation Quote Form</h5>
         {{ partial "getquote-form.html" . }}
       {{ end }}
       
       {{ if eq $e.Language.LanguageName "English" }}
+        <h5>Translation Quote Form</h5>
         {{ partial "getquote-form-jp.html" . }}
       {{ end }}
     {{ end}}

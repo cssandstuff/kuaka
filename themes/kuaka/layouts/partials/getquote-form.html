@@ -1,6 +1,11 @@
 <div id="form" class="form-container">
   <form class="w-100 w-75-ns mw9 center form" id="contactform" action="//formspree.io/tim@cssandstuff.com" method="POST">
-  <h5>Get in Touch</h5>
+    {{if (eq .Title "お問い合わせ")}}
+    <h5>Get In Touch</h5>
+    {{else}}
+    <h5>Translation Quote Form</h5>
+    {{end}}
+  
       <fieldset class="field">
           <input class="input" type="text" name="name" placeholder="Your Name" required>
       </fieldset>
