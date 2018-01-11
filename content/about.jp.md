@@ -10,7 +10,9 @@ menu:
     weight: 1
 
 ---
-# 「クアカ翻訳サービス」は、関﨑エリザベスが提供する翻訳サービスの商号です。
+# 「クアカ翻訳サービス」は、
+
+# 関﨑エリザベスが提供する翻訳サービスの商号です。
 
 {{< figure src="/kuaka/images/liz.jpg" class="polaroid" title="Attending FIT Conference" caption="Brisbane 2017" >}}
 
