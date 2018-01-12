@@ -1,4 +1,4 @@
-baseurl = "https://cssandstuff.github.io/kuaka"
+baseurl = "http://kuakatranslations.co.nz/"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
 enableRobotsTXT = true
