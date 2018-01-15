@@ -485,8 +485,10 @@ html,
 body,
 div,
 article,
+aside,
 section,
 main,
+nav,
 footer,
 header,
 form,
@@ -503,6 +505,9 @@ li,
 dl,
 dt,
 dd,
+blockquote,
+figcaption,
+figure,
 textarea,
 table, 
 td,
@@ -5737,7 +5742,7 @@ code, .code {
   margin-bottom: 0;
 }
 
-.nested-copy-seperator p+p {
+.nested-copy-separator p+p {
   margin-top: 1.5em;
 }
 

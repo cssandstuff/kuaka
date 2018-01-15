@@ -1,5 +1,4 @@
 .DS_Store
 Thumbs.db
-public/
 .bin/node_modules/
 /node_modules/
