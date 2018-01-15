@@ -6025,6 +6025,10 @@ blockquote p:before{
   max-height: 154px;
 }
 
+.main-nav{
+  max-width: 1060px;
+}
+
 .main-nav li{
   transition: 0.3s all;
 }
@@ -6092,7 +6096,8 @@ blockquote p:before{
 .main-content{
   background: #fff;
   margin-bottom: 10em;
-  font-weight: 300
+  font-weight: 300;
+  max-width: 1060px
 }
 
 .main-content h1 {
@@ -6269,6 +6274,10 @@ blockquote p:before{
 
 .form-container h5 + span {
   color: #fff;
+}
+
+.form-container .form {
+  max-width: 1060px;
 }
 
 .form-container .field{
@@ -6538,7 +6547,7 @@ article h5 {
 @media (min-width: 82em) {
 
   .homefeature .content {
-    min-height: 117px;
+    min-height: 137px;
   }
 }
 

@@ -95,6 +95,9 @@ blockquote p:before{
   min-height: 100px;
   max-height: 154px;
 }
+.main-nav{
+  max-width: 1060px;
+}
 .main-nav li{
   transition: 0.3s all;
 }
@@ -147,7 +150,7 @@ blockquote p:before{
   background: #fff;
   margin-bottom: 10em;
   font-weight: 300;
-  
+  max-width: 1060px;
   & h1{
     margin-top: 0;
   }
@@ -305,6 +308,9 @@ blockquote p:before{
     & + span{
       color: #fff;
     }
+  }
+  & .form{
+    max-width: 1060px;
   }
 }
 .form-container .field{
@@ -485,7 +491,7 @@ article{
     min-height: 82px;
     position: relative;
     @media (min-width: 82em){
-      min-height: 117px;
+      min-height: 137px;
     }
     & img{
       position: absolute;
