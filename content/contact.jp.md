@@ -14,7 +14,7 @@ menu:
 
 ## 関﨑エリザベス（日英翻訳）
 
-##### お問い合わせ先：
+#### お問い合わせ先：
 
 [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
