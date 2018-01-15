@@ -59,4 +59,4 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 
 > I found your service always very professional and articulate.
 
-> Thank you very much for the perfect translation! Testing.....
+> Thank you very much for the perfect translation! Testing.....2
