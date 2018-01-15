@@ -27,9 +27,9 @@ Graduation certificates, diplomas, qualifications
 
 {{% homefeature immigration %}}
 
-### Immigration Documents
+### Translations for Immigration NZ
 
-Visa applications - Family registrations, work certificates, recommendation letters etc. {{% /homefeature %}}
+Family registrations, work certificates, recommendation letters etc. {{% /homefeature %}}
 
 {{% homefeature medical %}}
 
@@ -59,4 +59,4 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 
 > I found your service always very professional and articulate.
 
-> Thank you very much for the perfect translation! test 3
+> Thank you very much for the perfect translation!

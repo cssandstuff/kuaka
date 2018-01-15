@@ -6392,7 +6392,7 @@ article .form-container .uploadcare--widget__button {
 }
 
 article .form-container .uploadcare--widget__button:before {
-  background: url('/kuaka/images/attach.png') no-repeat;
+  background: url('/images/attach.png') no-repeat;
   background-size: 100%;
 }
 
@@ -6417,7 +6417,7 @@ article .form-container .uploadcare--widget__button:hover {
 
 .uploadcare--widget__button:before {
   content: '';
-  background: url('/kuaka/images/attach-white.png') no-repeat;
+  background: url('/images/attach-white.png') no-repeat;
   position: absolute;
   left: 8px;
   top: 5px;

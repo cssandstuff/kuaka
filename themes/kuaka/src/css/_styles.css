@@ -380,7 +380,7 @@ article{
       margin-left: 0;
       border-color: rgba(13, 135, 175,0.1);
       &:before{
-        background: url('/kuaka/images/attach.png') no-repeat;
+        background: url('/images/attach.png') no-repeat;
         background-size: 100%;
       }
       &:hover{
@@ -403,7 +403,7 @@ article{
   }
    &:before{
     content:'';
-    background: url('/kuaka/images/attach-white.png') no-repeat;
+    background: url('/images/attach-white.png') no-repeat;
     position: absolute;
     left: 8px;
     top: 5px;

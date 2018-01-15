@@ -7058,7 +7058,7 @@ $("#contactform").submit(function (e) {
   var formData = new FormData(this);
   console.log(formData);
   $.ajax({
-    url: 'https://formspree.io/tim@cssandstuff.com',
+    url: 'https://formspree.io/info@kuakatranslations.co.nz',
     type: 'POST',
     data: formData,
     dataType: "json",
