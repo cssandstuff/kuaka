@@ -7032,7 +7032,7 @@ function updateLangs() {
 
   $('#languages a').off().on('click', function () {
     var locale = $(this).data('lang');
-    console.log(locale);
+    //console.log(locale);
     internalUploadcare.locale.rebuild({
       locale: locale
     });
@@ -7056,7 +7056,7 @@ $(document).ready(function () {
 $("#contactform").submit(function (e) {
   e.preventDefault();
   var formData = new FormData(this);
-  console.log(formData);
+  //console.log(formData);
   $.ajax({
     url: 'https://formspree.io/info@kuakatranslations.co.nz',
     type: 'POST',
@@ -7064,6 +7064,15 @@ $("#contactform").submit(function (e) {
     dataType: "json",
     success: function success(data) {
       console.log(data);
+      $('#thanksMessage').addClass('done');
+      if ($('.main-content').hasClass('onpageform')) {
+        $('.form-container .form').animate({ opacity: 0 }, 900);
+      } else {
+        $('.form-container .form').slideUp(900);
+      }
+    },
+    error: function error(textStatus, errorThrown) {
+      console.log('ouch');
     },
     cache: false,
     contentType: false,
@@ -7081,7 +7090,7 @@ function loadPage(newUrl) {
     if (httpRequest.readyState !== XMLHttpRequest.DONE) return;
 
     var newDocument = httpRequest.responseXML;
-    console.log(newDocument.getElementById("mainContent"));
+    //console.log(newDocument.getElementById("mainContent"));
     if (newDocument === null) return;
 
     var newContent = httpRequest.responseXML.getElementById("mainContent");
@@ -7115,14 +7124,14 @@ function loadPage(newUrl) {
     $("#contactform").submit(function (e) {
       e.preventDefault();
       var formData = new FormData(this);
-      console.log(formData);
+      //console.log(formData);
       $.ajax({
         url: 'https://formspree.io/tim@cssandstuff.com',
         type: 'POST',
         data: formData,
         dataType: "json",
         success: function success(data) {
-          console.log(data);
+          //console.log(data)
         },
         cache: false,
         contentType: false,
@@ -7147,7 +7156,7 @@ function loadPage(newUrl) {
       changeBg = setTimeout(function () {
         if (!transitioning) {
 
-          //console.log('yip');
+          ////console.log('yip');
           if ($('#pageBg .bgnew').hasClass('hidden')) {
             $('#pageBg .bgnew').css('background', 'url(' + downloadingImage.src + ') no-repeat top center fixed');
             $('#pageBg .bgnew').css('background-size', 'cover');

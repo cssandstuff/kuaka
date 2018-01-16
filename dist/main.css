@@ -6204,6 +6204,10 @@ blockquote p:before{
   line-height: 1.1;
 }
 
+footer a{
+  color: rgba(255, 255, 255, .6) !important;
+}
+
 .pre-footer{
 }
 
@@ -6261,9 +6265,56 @@ blockquote p:before{
   border-radius: 0 0 0 6px;
 }
 
+@-webkit-keyframes slideIn{
+  0%{
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+  100%{
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@keyframes slideIn{
+  0%{
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+  }
+  100%{
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+.done{
+  -webkit-animation: slideIn 0.8s forwards;
+          animation: slideIn 0.8s forwards;
+  display: block !important;
+}
+
 .form-container{
   background: rgba(23, 53, 77, .95);
-  padding-top: 2em
+  padding-top: 2em;
+  position: relative
+}
+
+.form-container #thanksMessage {
+  display: none;
+  position: absolute;
+  bottom: -40px;
+  color: #fff;
+  background: #07b699;
+  border: 1px solid rgba(41, 71, 70, 0.27843);
+  border-radius: 3px;
+  padding: 0 10px;
+  width: 100%;
+  font-size: 1.3em;
+  text-align: center;
 }
 
 .form-container h5 {
