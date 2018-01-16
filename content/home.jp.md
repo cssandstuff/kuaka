@@ -1,7 +1,7 @@
 ---
 title: Home-JP
 seotitle: "日英翻訳"
-bg: "/uploads/2017/12/14/2006_04250031.JPG"
+bg: "/uploads/2018/01/10/Auckland harbour bridge.JPG"
 date: 2017-11-14 20:01:34 +1300
 type: page
 layout: page-with-form
