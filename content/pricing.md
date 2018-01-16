@@ -1,5 +1,6 @@
 ---
 title: Pricing
+seotitle: Quote for Japanese to English Translation
 bg: "/uploads/2017/12/15/Mt Yotei.jpg"
 date: 2017-11-14 20:01:34 +1300
 layout: page-with-form

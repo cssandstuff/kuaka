@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
-    <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ .Site.Title }} | {{ if (eq .Title "Kuaka Translations")}}{{ range where .Data.Pages "Title" "Home" }}{{ .Params.SeoTitle }}{{ end }}{{ range where .Data.Pages "Title" "Home-JP" }}{{ .Params.SeoTitle }}{{ end }}{{else}}{{.Params.SeoTitle}}{{ end }}{{ end }}</title>
+    
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width,minimum-scale=1">

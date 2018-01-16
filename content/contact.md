@@ -1,5 +1,6 @@
 ---
 title: Contact
+seotitle: Contact Liz Sekizaki
 bg: "/images/fuji.jpg"
 date: 2017-11-12 22:07:07 +1300
 layout: page-with-onpage-form

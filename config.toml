@@ -4,7 +4,7 @@ disableKinds = ["RSS"]
 enableRobotsTXT = true
 languageCode = "en-us"
 theme = "kuaka"
-title = "Kuaka"
+title = "Kuaka Translations"
 [languages.en]
 languageName = "English"
 weight = 0

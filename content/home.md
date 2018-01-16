@@ -1,5 +1,6 @@
 ---
 title: Home
+seotitle: Professional Japanese to English Translation
 bg: "/uploads/2018/01/10/Auckland harbour bridge.JPG"
 date: 2017-11-15 20:01:34 +1300
 type: page
