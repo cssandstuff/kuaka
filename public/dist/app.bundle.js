@@ -7126,12 +7126,21 @@ function loadPage(newUrl) {
       var formData = new FormData(this);
       //console.log(formData);
       $.ajax({
-        url: 'https://formspree.io/tim@cssandstuff.com',
+        url: 'https://formspree.io/info@kuakatranslations.co.nz',
         type: 'POST',
         data: formData,
         dataType: "json",
         success: function success(data) {
-          //console.log(data)
+          console.log(data);
+          $('#thanksMessage').addClass('done');
+          if ($('.main-content').hasClass('onpageform')) {
+            $('.form-container .form').animate({ opacity: 0 }, 900);
+          } else {
+            $('.form-container .form').slideUp(900);
+          }
+        },
+        error: function error(textStatus, errorThrown) {
+          console.log('ouch');
         },
         cache: false,
         contentType: false,
