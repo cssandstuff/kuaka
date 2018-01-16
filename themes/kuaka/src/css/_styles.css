@@ -241,6 +241,9 @@ blockquote p:before{
   line-height: 1.1;
 }
 
+footer a{
+  color: rgba(255,255,255,0.6) !important;
+}
 .pre-footer{
 }
 
@@ -293,9 +296,37 @@ blockquote p:before{
   }
 }
 
+@keyframes slideIn{
+  0%{
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+.done{
+  animation: slideIn 0.8s forwards;
+  display: block !important;
+}
 .form-container{
   background: rgba(23, 53, 77, 0.95);
   padding-top: 2em;
+  position: relative;
+  & #thanksMessage{
+    display: none;
+    position: absolute;
+    bottom: -40px;
+    color: #fff;
+    background: #07b699;
+    border: 1px solid #29474647;
+    border-radius: 3px;
+    padding: 0 10px;
+    width: 100%;
+    font-size: 1.3em;
+    text-align: center;
+  }
   & h5{
     color: #fff;
     font-weight: 700;
