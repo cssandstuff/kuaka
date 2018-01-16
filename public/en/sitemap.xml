@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/about/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/getquote/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/getquote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/getquote/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/contact/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/home/</loc>
+    <lastmod>2017-11-15T20:01:34+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/home/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/pricing/</loc>
+    <lastmod>2017-11-14T20:01:34+13:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/</loc>
+    <lastmod>2017-11-12T22:07:07+13:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kuakatranslations.co.nz/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://kuakatranslations.co.nz/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kuakatranslations.co.nz/tags/"
+                />
+  </url>
+  
+</urlset>
