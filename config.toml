@@ -1,8 +1,8 @@
 baseurl = "http://kuakatranslations.co.nz/"
-googleAnalytics = "UA-7167547-13"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
 enableRobotsTXT = true
+googleAnalytics = "UA-7167547-13"
 languageCode = "en-us"
 theme = "kuaka"
 title = "Kuaka Translations"
