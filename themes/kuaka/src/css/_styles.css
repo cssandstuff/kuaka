@@ -1,4 +1,7 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
+
+
+
 *{
   text-rendering: geometricPrecision;
   -webkit-font-smoothing: antialiased;
@@ -505,8 +508,10 @@ article{
 .homefeature{
   flex-basis: 100%;
   margin: 0 0 0.6em;
-  @media (min-width: 30em){
+  min-width: 320px;
+  @media (min-width: 70em){
     flex-basis: calc(50% - 0.4em);
+    
   }
  
   @media (min-width: 82em){
