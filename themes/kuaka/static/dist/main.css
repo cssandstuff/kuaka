@@ -6589,6 +6589,7 @@ article h5 {
     -ms-flex-preferred-size: calc(25% - 0.5em);
         flex-basis: calc(25% - 0.5em);
     margin: 0;
+    min-width: 0;
   }
   }
 

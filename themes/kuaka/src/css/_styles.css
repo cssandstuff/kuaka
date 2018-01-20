@@ -517,6 +517,7 @@ article{
   @media (min-width: 82em){
     flex-basis: calc(25% - 0.5em);
     margin: 0;
+    min-width: 0;
   }
   & .content{
     padding: 8px 12px;
