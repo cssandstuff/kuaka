@@ -100,6 +100,16 @@ blockquote p:before{
 }
 .main-nav{
   max-width: 1060px;
+  @media (max-width:40em){
+   & ul{
+      flex-basis: 100%;
+      flex-grow: 1;
+      flex-direction: column;
+      & li{
+        width: 100%;
+      }
+    }
+  }
 }
 .main-nav li{
   transition: 0.3s all;
@@ -118,6 +128,7 @@ blockquote p:before{
   letter-spacing: 0.04em;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
   transition: 0.3s all;
+  white-space: nowrap;
 }
 .main-nav a:hover{
   background: rgba(255,255,255,0.1);
