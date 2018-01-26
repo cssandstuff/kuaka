@@ -6022,7 +6022,7 @@ blockquote p:before{
 @media (max-width:40em){
 
   .bg, .bgnew {
-    background-size: 100% !important;
+    background-size: 100vh !important;
   }
   }
 
