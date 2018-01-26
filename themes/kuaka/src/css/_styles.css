@@ -86,7 +86,9 @@ blockquote p:before{
   min-width: 100%;
   min-height: 100%;
   transition: 1.8s;
-  background-size: 100%;
+  @media (max-width:40em){
+    background-size: 100% !important;
+  }
 }
 
 .logo{
@@ -102,12 +104,14 @@ blockquote p:before{
 .main-nav{
   max-width: 1060px;
   @media (max-width:40em){
+  
    & ul{
       flex-basis: 100%;
       flex-grow: 1;
       flex-direction: column;
       & li{
         width: 100%;
+        background: rgba(16, 30, 63, 0.4);
       }
     }
   }
