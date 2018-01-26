@@ -32,14 +32,17 @@ body:before{
   background: linear-gradient(to bottom, rgba(16, 30, 63, 0.6) 0%, rgba(16, 30, 63, 0) 100%);
   
 }
-.nested-img figure.polaroid{
-  width: 34%;
-  padding: 1em;
-  box-shadow: 1px 1px 9px rgba(50,50,50,0.3);
-  float: left;
-  margin: 1.8em 2.4em 1em -0.5em ;
-  transform: rotate(-2deg);
+@media (min-width: 40em){
+  .nested-img figure.polaroid{
+    width: 34%;
+    padding: 1em;
+    box-shadow: 1px 1px 9px rgba(50,50,50,0.3);
+    float: left;
+    margin: 1.8em 2.4em 1em -0.5em ;
+    transform: rotate(-2deg);
+  }
 }
+
 .nested-img figure.polaroid h4{
   font-weight: 500;
   text-transform: none;
@@ -87,7 +90,7 @@ blockquote p:before{
   min-height: 100%;
   transition: 1.8s;
   @media (max-width:40em){
-    background-size: 100vh !important;
+    background-size: auto 100vh !important;
   }
 }
 
