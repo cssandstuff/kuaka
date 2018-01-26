@@ -5953,14 +5953,16 @@ body:before{
   
 }
 
-.nested-img figure.polaroid{
-  width: 34%;
-  padding: 1em;
-  box-shadow: 1px 1px 9px rgba(50, 50, 50, .3);
-  float: left;
-  margin: 1.8em 2.4em 1em -0.5em ;
-  -webkit-transform: rotate(-2deg);
-          transform: rotate(-2deg);
+@media (min-width: 40em){
+  .nested-img figure.polaroid{
+    width: 34%;
+    padding: 1em;
+    box-shadow: 1px 1px 9px rgba(50, 50, 50, .3);
+    float: left;
+    margin: 1.8em 2.4em 1em -0.5em ;
+    -webkit-transform: rotate(-2deg);
+            transform: rotate(-2deg);
+  }
 }
 
 .nested-img figure.polaroid h4{
@@ -6022,7 +6024,7 @@ blockquote p:before{
 @media (max-width:40em){
 
   .bg, .bgnew {
-    background-size: 100vh !important;
+    background-size: auto 100vh !important;
   }
   }
 
