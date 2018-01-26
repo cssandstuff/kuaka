@@ -6016,9 +6016,15 @@ blockquote p:before{
   z-index: -2;
   min-width: 100%;
   min-height: 100%;
-  transition: 1.8s;
-  background-size: 100%;
+  transition: 1.8s
 }
+
+@media (max-width:40em){
+
+  .bg, .bgnew {
+    background-size: 100% !important;
+  }
+  }
 
 .logo{
   position: relative;
@@ -6054,6 +6060,7 @@ blockquote p:before{
 
   .main-nav ul li {
     width: 100%;
+    background: rgba(16, 30, 63, .4);
   }
   }
 
