@@ -273,6 +273,14 @@ footer a{
 .pre-footer{
 }
 
+.nzsti, .phnumbers{
+  @media (max-width:60em){
+    width: 100%;
+    margin: 1em auto 0;
+    float: none;
+    max-width: 270px;
+  }
+}
 
 .phnumbers{
   color: #367D9A;
@@ -530,7 +538,7 @@ article{
 }
 .homefeature{
   flex-basis: 100%;
-  margin: 0 0 0.6em;
+  margin: 0 0 1em;
   min-width: 320px;
   @media (min-width: 70em){
     flex-basis: calc(50% - 0.4em);
