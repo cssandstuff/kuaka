@@ -6024,6 +6024,14 @@ blockquote p:before{
 @media (max-width:60em){
 
   .bg, .bgnew {
+    background-size: 100% !important;
+    position: absolute;
+  }
+  }
+
+@media (max-width:40em){
+
+  .bg, .bgnew {
     background-size: auto 100vh !important;
     position: absolute;
   }
