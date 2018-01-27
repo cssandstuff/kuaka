@@ -6136,8 +6136,15 @@ blockquote p:before{
 }
 
 #mainContent{
-  margin-bottom: 17em;
+  margin-bottom: 17em
 }
+
+@media (max-width:40em){
+
+  #mainContent {
+    margin-bottom: 0;
+  }
+  }
 
 .main-content{
   background: #fff;
@@ -6155,6 +6162,13 @@ blockquote p:before{
   -webkit-animation: 1.8s fadeIn forwards 1;
           animation: 1.8s fadeIn forwards 1;
 }
+
+@media (max-width:40em){
+
+  .main-content {
+    margin-bottom: 0;
+  }
+  }
 
 .nested-copy-line-height p{
   white-space: pre-wrap;
@@ -6251,6 +6265,19 @@ footer a{
 
 .pre-footer{
 }
+
+.nzsti, .phnumbers{
+}
+
+@media (max-width:60em){
+
+  .nzsti, .phnumbers {
+    width: 100%;
+    margin: 1em auto 0;
+    float: none;
+    max-width: 270px;
+  }
+  }
 
 .phnumbers{
   color: #367D9A;
@@ -6611,7 +6638,7 @@ article h5 {
 .homefeature{
   -ms-flex-preferred-size: 100%;
       flex-basis: 100%;
-  margin: 0 0 0.6em;
+  margin: 0 0 1em;
   min-width: 320px
 }
 
