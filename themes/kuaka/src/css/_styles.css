@@ -171,6 +171,9 @@ blockquote p:before{
 }
 #mainContent{
   margin-bottom: 17em;
+  @media (max-width:40em){
+    margin-bottom: 0;
+  }
 }
 .main-content{
   background: #fff;
@@ -183,6 +186,9 @@ blockquote p:before{
   & article{
     opacity: 0;
     animation: 1.8s fadeIn forwards 1;
+  }
+  @media (max-width:40em){
+    margin-bottom: 0;
   }
 }
 
