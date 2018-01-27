@@ -5944,7 +5944,7 @@ html{
 
 body:before{
   content: '';
-  position: absolute;
+  position: fixed;
   z-index: -1;
   top: 0; left: 0;
   width: 100%;
@@ -6025,7 +6025,6 @@ blockquote p:before{
 
   .bg, .bgnew {
     background-size: 100% !important;
-    top: 0 !important;
   }
   }
 
