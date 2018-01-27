@@ -5953,7 +5953,7 @@ body:before{
   
 }
 
-@media (min-width: 40em){
+@media (min-width: 60em){
   .nested-img figure.polaroid{
     width: 34%;
     padding: 1em;
@@ -6021,7 +6021,7 @@ blockquote p:before{
   transition: 1.8s
 }
 
-@media (max-width:40em){
+@media (max-width:60em){
 
   .bg, .bgnew {
     background-size: auto 100vh !important;
