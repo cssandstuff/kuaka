@@ -6025,7 +6025,6 @@ blockquote p:before{
 
   .bg, .bgnew {
     background-size: 100% !important;
-    position: absolute;
   }
   }
 

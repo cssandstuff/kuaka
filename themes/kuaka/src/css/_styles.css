@@ -91,7 +91,6 @@ blockquote p:before{
   transition: 1.8s;
   @media (max-width:60em){
     background-size: 100% !important;
-    position: absolute;
   }
   @media (max-width:40em){
     background-size: auto 100vh !important;
