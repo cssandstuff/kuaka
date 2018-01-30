@@ -6018,7 +6018,7 @@ blockquote p:before{
   z-index: -2;
   min-width: 100%;
   min-height: 100%;
-  transition: 1.8s
+  transition: 1.8s opacity
 }
 
 @media (max-width:60em){
