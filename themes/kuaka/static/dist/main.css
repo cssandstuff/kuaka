@@ -6044,8 +6044,15 @@ blockquote p:before{
   z-index: 1;
   height: 40vh;
   min-height: 100px;
-  max-height: 154px;
+  max-height: 154px
 }
+
+@media (max-width:40em){
+
+  .logo {
+    height: 25vh;
+  }
+  }
 
 .main-nav{
   max-width: 1060px

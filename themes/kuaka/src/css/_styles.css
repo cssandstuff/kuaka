@@ -107,6 +107,9 @@ blockquote p:before{
   height: 40vh;
   min-height: 100px;
   max-height: 154px;
+  @media (max-width:40em){
+    height: 25vh;
+  }
 }
 .main-nav{
   max-width: 1060px;
