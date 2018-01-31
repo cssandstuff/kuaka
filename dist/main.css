@@ -6335,6 +6335,10 @@ footer a{
   font-size: 0.9em;
 }
 
+.phnumbers a{
+  text-decoration: none;
+}
+
 .phnumbers span{
   text-align: right;
   padding-left: 10px;
