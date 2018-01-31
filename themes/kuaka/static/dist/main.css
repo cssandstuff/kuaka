@@ -6192,8 +6192,15 @@ blockquote p:before{
   font-size: 1.9em;
   margin-bottom: 0;
   letter-spacing: -0.03em;
-  line-height: 1; 
+  line-height: 1 
 }
+
+@media (max-width: 60em){
+
+  .home h1 {
+    font-size: 1.5em;
+  }
+  }
 
 .home{
   line-height: 1;
@@ -6231,8 +6238,15 @@ blockquote p:before{
   margin: 0.2em 0 0;
   padding-bottom: 0.5em;
   border-bottom: 1px solid #367D9A;
-  line-height: 1.25;
+  line-height: 1.25 
 }
+
+@media (max-width: 60em){
+
+  .home h2 {
+    font-size: 1em;
+  }
+  }
 
 .home h2 em{
   position: relative;
