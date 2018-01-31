@@ -42,6 +42,11 @@ body:before{
     transform: rotate(-2deg);
   }
 }
+@media (max-width: 60em){
+  .nested-img figure.polaroid{
+    margin: 0;
+  }
+}
 
 .nested-img figure.polaroid h4{
   font-weight: 500;
@@ -298,6 +303,9 @@ footer a{
   padding: 0.85em 0 0.75em;
   border-top: 1px solid rgba(54, 125, 154, 0.29);
   border-bottom: 1px solid rgba(54, 125, 154, 0.29);
+  @media (max-width:40em){
+    font-size: 1.5em;
+  }
 }
 .phnumbers h6{
   margin: 0 0 6px 0;
@@ -548,10 +556,9 @@ article{
 .homefeature{
   flex-basis: 100%;
   margin: 0 0 1em;
-  min-width: 320px;
+  min-width: 311px;
   @media (min-width: 70em){
     flex-basis: calc(50% - 0.4em);
-    
   }
  
   @media (min-width: 82em){
@@ -598,6 +605,9 @@ article{
     font-size: 1.1rem;
     padding-right: 2.8em;
     margin-top: 4px;
+    @media (max-width: 40em){
+      font-size: 0.95rem;
+    }
   }
   & p{
     color: #153b54;
