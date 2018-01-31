@@ -6315,7 +6315,7 @@ footer a{
   border-bottom: 1px solid rgba(54, 125, 154, .29)
 }
 
-@media (max-width:40em){
+@media (max-width:60em){
 
   .phnumbers {
     font-size: 1.5em;
@@ -6336,12 +6336,23 @@ footer a{
 }
 
 .phnumbers a{
-  text-decoration: none;
+  text-decoration: none
 }
+
+@media (max-width: 60em){
+
+  .phnumbers a {
+    display: inline-block;
+    background: #daf4ff;
+    border-radius: 3px;
+    padding: 2px 7px;
+  }
+  }
 
 .phnumbers span{
   text-align: right;
-  padding-left: 10px;
+  /*padding-left: 10px;*/
+  padding: 0px 6px 2px 2px;
 }
 
 #languages{
