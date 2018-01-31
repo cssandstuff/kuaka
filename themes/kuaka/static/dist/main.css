@@ -6332,8 +6332,16 @@ footer a{
   padding-right: 1em;
   width: 80px;
   display: inline-block;
-  font-size: 0.9em;
+  font-size: 0.9em
 }
+
+@media (max-width: 60em){
+
+  .phnumbers strong {
+    padding-top: 5px;
+    vertical-align: top;
+  }
+  }
 
 .phnumbers a{
   text-decoration: none
