@@ -48,7 +48,7 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 * Prompt replies to requests for quotations
 * Competitive rates
 * Professional, timely and high quality translations
-* Medical translations a specialty.
+* Medical translations a specialty
 
 ### Testimonials
 

@@ -25,7 +25,7 @@ I am an English speaker, born in New Zealand but fluent in Japanese after a numb
 
 * BA in Japanese (Victoria University of Wellington, New Zealand)
 * Postgraduate Diploma in Translation Studies (University of Auckland, New Zealand)
-* Member (Full) for Japanese to English, of the New Zealand Society for Translators and Interpreters or (NZSTI)
+* Member (Full) for Japanese to English, of the New Zealand Society for Translators and Interpreters (NZSTI)
 * Translations accepted by the New Zealand Transport Agency (NZTA), New Zealand Qualifications Authority (NZQA) and Immigration New Zealand
 * I have been translating since 2003
 
