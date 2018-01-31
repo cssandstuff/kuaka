@@ -5965,6 +5965,12 @@ body:before{
   }
 }
 
+@media (max-width: 60em){
+  .nested-img figure.polaroid{
+    margin: 0;
+  }
+}
+
 .nested-img figure.polaroid h4{
   font-weight: 500;
   text-transform: none;
@@ -6292,8 +6298,15 @@ footer a{
   font-size: 1.9em;
   padding: 0.85em 0 0.75em;
   border-top: 1px solid rgba(54, 125, 154, .29);
-  border-bottom: 1px solid rgba(54, 125, 154, .29);
+  border-bottom: 1px solid rgba(54, 125, 154, .29)
 }
+
+@media (max-width:40em){
+
+  .phnumbers {
+    font-size: 1.5em;
+  }
+  }
 
 .phnumbers h6{
   margin: 0 0 6px 0;
@@ -6646,7 +6659,7 @@ article h5 {
   -ms-flex-preferred-size: 100%;
       flex-basis: 100%;
   margin: 0 0 1em;
-  min-width: 320px
+  min-width: 311px
 }
 
 @media (min-width: 70em){
@@ -6655,7 +6668,6 @@ article h5 {
     -ms-flex-preferred-size: calc(50% - 0.4em);
         flex-basis: calc(50% - 0.4em);
   }
-    
   }
 
 @media (min-width: 82em){
@@ -6717,6 +6729,13 @@ article h5 {
   font-size: 1.1rem;
   padding-right: 2.8em;
   margin-top: 4px;
+}
+
+@media (max-width: 40em) {
+
+  .homefeature h3 {
+    font-size: 0.95rem;
+  }
 }
 
 .homefeature p {
