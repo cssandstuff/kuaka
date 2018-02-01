@@ -37,20 +37,8 @@
   </url>
   
   <url>
-    <loc>http://kuakatranslations.co.nz/jp/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kuakatranslations.co.nz/jp/</loc>
     <lastmod>2017-11-12T22:07:07+13:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kuakatranslations.co.nz/jp/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
