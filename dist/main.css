@@ -6198,6 +6198,10 @@ blockquote p:before{
   white-space: pre-wrap;
 }
 
+.nested-copy-line-height h1{
+  margin-bottom: 0.35em;
+}
+
 .home h1{
   color: #143953;
   font-size: 1.9em;
