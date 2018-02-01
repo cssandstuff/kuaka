@@ -25,4 +25,4 @@ weight = -99
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-  disableKinds = ["taxonomy", "taxonomyTerm"]
+  disableKinds = ["taxonomy", "taxonomyTerm", "tags", "categories"]
