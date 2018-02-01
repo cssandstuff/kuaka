@@ -6198,7 +6198,7 @@ blockquote p:before{
   white-space: pre-wrap;
 }
 
-.nested-copy-line-height h1{
+.home .nested-copy-line-height h1{
   margin-bottom: 0.35em;
 }
 
