@@ -6170,6 +6170,13 @@ blockquote p:before{
   margin-bottom: 30em;
 }
 
+@media (max-width: 60em) {
+
+  .main-content.onpageform {
+    margin-bottom: 0;
+  }
+}
+
 .main-content h1 {
   margin-top: 0;
 }
