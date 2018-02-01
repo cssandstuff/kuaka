@@ -20,11 +20,9 @@ weight = 10
 name = "ホーム"
 url = "/jp"
 weight = -99
-[taxonomies]
-
 [sitemap]
-  changefreq = "monthly"
-  disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-  filename = "sitemap.xml"
-  priority = 0.5
-
+changefreq = "monthly"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+filename = "sitemap.xml"
+priority = 0.5
+[taxonomies]
