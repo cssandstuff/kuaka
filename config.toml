@@ -17,12 +17,14 @@ weight = -99
 languageName = "Japanese"
 weight = 10
 [[languages.jp.menu.main]]
-googleAnalytics = "UA-7167547-13"
 name = "ホーム"
 url = "/jp"
 weight = -99
+[taxonomies]
+
 [sitemap]
-changefreq = "monthly"
-disableKinds = ["taxonomy", "taxonomyTerm", "tags", "categories"]
-filename = "sitemap.xml"
-priority = 0.5
+  changefreq = "monthly"
+  disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+  filename = "sitemap.xml"
+  priority = 0.5
+
