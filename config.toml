@@ -21,3 +21,7 @@ googleAnalytics = "UA-7167547-13"
 name = "ホーム"
 url = "/jp"
 weight = -99
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
