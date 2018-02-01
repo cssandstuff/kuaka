@@ -22,7 +22,7 @@ name = "ホーム"
 url = "/jp"
 weight = -99
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-  disableKinds = ["taxonomy", "taxonomyTerm"]
+changefreq = "monthly"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+filename = "sitemap.xml"
+priority = 0.5
