@@ -19,7 +19,9 @@ menu:
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
-I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language.
+I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language. 
+
+I also regularly attend translation conferences to maintain my skills and keep up-to-date with professional news and developments – for example, the FIT (International Federation of Translators) Congress in Brisbane, Australia (August, 2017) and the NZSTI (New Zealand Society of Translators and Interpreters) Conference in Wellington, New Zealand (May, 2018).
 
 ### Qualifications:
 
