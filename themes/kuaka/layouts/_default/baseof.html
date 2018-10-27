@@ -18,7 +18,7 @@
     {{ end }}
 
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,700" rel="stylesheet">
-    <link href='{{ "dist/main.css" | absURL }}?{{ .Now.Unix }}' rel='stylesheet' type="text/css" />
+    <link href='{{ "dist/main.css" | absURL }}?{{ now.Unix }}' rel='stylesheet' type="text/css" />
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
     {{ end }}
