@@ -7058,7 +7058,7 @@ $("#contactform").submit(function (e) {
   var formData = new FormData(this);
   //console.log(formData);
   $.ajax({
-    url: 'https://formspree.io/info@kuakatranslations.co.nz',
+    url: 'https://usebasin.com/f/cbd0c31fbdc8.json',
     type: 'POST',
     data: formData,
     dataType: "json",
@@ -7126,7 +7126,7 @@ function loadPage(newUrl) {
       var formData = new FormData(this);
       //console.log(formData);
       $.ajax({
-        url: 'https://formspree.io/info@kuakatranslations.co.nz',
+        url: 'https://usebasin.com/f/cbd0c31fbdc8.json',
         type: 'POST',
         data: formData,
         dataType: "json",
