@@ -2,7 +2,7 @@
 title: Home
 seotitle: Professional Japanese to English Translation
 bg: "/uploads/2018/01/10/Auckland harbour bridge.JPG"
-date: 2017-11-15 20:01:34 +1300
+date: 2017-11-15 07:01:34 +0000
 type: page
 layout: page-with-form
 
@@ -41,7 +41,7 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 ### Why use Kuaka Translations?
 
 * Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
-* Over 14 years’ experience
+* Over 15 years’ experience
 * Extensive experience with Japanese clients
 * Personalised service
 * Fluent Japanese speaker
