@@ -2,7 +2,7 @@
 title: Home-JP
 seotitle: 日英翻訳
 bg: "/uploads/2018/01/10/Auckland harbour bridge.JPG"
-date: 2017-11-14 07:01:34 +0000
+date: 2017-11-14T07:01:34.000+00:00
 type: page
 layout: page-with-form
 
@@ -23,7 +23,7 @@ layout: page-with-form
 #### クアカ翻訳サービスに翻訳を依頼すべき主な理由
 
 * ＮＺＳＴＩ認定日英翻訳
-* 日英翻訳経験１５年以上
+* 日英翻訳経験１７年以上
 * 幅広い分野で邦人の顧客様・企業様との業務経験が豊富
 * お客様目線での良質なサービス
 * 日本語で対応
