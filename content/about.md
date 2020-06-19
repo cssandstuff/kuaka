@@ -2,9 +2,9 @@
 title: About
 seotitle: About Elizabeth Sekizaki
 bg: "/images/rainbow.jpg"
-date: 2017-11-12 22:07:07 +1300
+date: 2017-11-12T09:07:07.000+00:00
 layout: page-with-form
-weight: -1
+weight: "-1"
 type: page
 menu:
   main:
@@ -19,7 +19,7 @@ menu:
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
-I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language. 
+I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language.
 
 I also regularly attend translation conferences to maintain my skills and keep up-to-date with professional news and developments – for example, the FIT (International Federation of Translators) Congress in Brisbane, Australia (August, 2017) and the NZSTI (New Zealand Society of Translators and Interpreters) Conference in Wellington, New Zealand (May, 2018).
 
@@ -27,7 +27,8 @@ I also regularly attend translation conferences to maintain my skills and keep u
 
 * BA in Japanese (Victoria University of Wellington, New Zealand)
 * Postgraduate Diploma in Translation Studies (University of Auckland, New Zealand)
-* Member (Full) for Japanese to English, of the New Zealand Society for Translators and Interpreters (NZSTI)
+* Member of the New Zealand Society for Translators and Interpreters (NZSTI) - Japanese to English
+* Member of the Japan Association of Translators (JAT)
 * Translations accepted by the New Zealand Transport Agency (NZTA), New Zealand Qualifications Authority (NZQA) and Immigration New Zealand
 * I have been translating since 2003
 
