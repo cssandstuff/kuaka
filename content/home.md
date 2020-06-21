@@ -11,8 +11,7 @@ layout: page-with-form
 
 ## _Based in Auckland, New Zealand_
 
-{{< homefeatures >}}
-{{% homefeature nzta %}}
+{{< homefeatures >}} {{% homefeature nzta %}} 
 
 ### Translations for NZTA
 
@@ -60,4 +59,4 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 
 > I found your service always very professional and articulate.
 
-> Thank you very much for the perfect translation! 
+> Thank you very much for the perfect translation!
