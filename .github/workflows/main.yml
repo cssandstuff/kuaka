@@ -17,4 +17,4 @@ jobs:
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
-          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          githubToken: ${{ secrets.caa88a55851a90e506ff9d78f7b897875d2614cc }}
