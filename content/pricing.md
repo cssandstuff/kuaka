@@ -2,7 +2,7 @@
 title: Pricing
 seotitle: Quote for Japanese to English Translation
 bg: "/uploads/2017/12/15/Mt Yotei.jpg"
-date: 2017-11-14 20:01:34 +1300
+date: 2017-11-14T20:01:34.000+13:00
 layout: page-with-form
 type: page
 menu:
@@ -20,9 +20,9 @@ The following is a guide to pricing for frequently ordered translations in New Z
 
 * Driver’s licence translation (NZTA format): $40
 * Family registration certificate – selective translation: $46 for up to three family members
-* Birth certificate – selective translation: $46 
+* Birth certificate – selective translation: $46
 * Full translations: Rates vary depending on the document, but are charged per Japanese character. Minimum charge applies.
 
 Minimum charge: With the exception of driver’s licence translations, all translations have a minimum charge of $46.
 
-The above rates are subject to change, so please [email](mailto:info@kuakatranslations.co.nz) for a quote.
+The above rates are subject to change, so please [email](mailto:info@kuakatranslations.co.nz) for a quote..
