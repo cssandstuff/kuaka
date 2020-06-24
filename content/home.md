@@ -11,7 +11,7 @@ layout: page-with-form
 
 ## _Based in Auckland, New Zealand_
 
-{{< homefeatures >}} {{% homefeature nzta %}} 
+{{< homefeatures >}} {{% homefeature nzta %}}
 
 ### Translations for NZTA
 
@@ -57,6 +57,6 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 
 > Since I started my immigration business in the beginning of 2015, I have been very happy with your services. You respond to my emails very quickly. You have strong professional ethics, which makes me feel comfortable to deal with you.
 
-> I found your service always very professional and articulate.
+> Thank you for all the amazing, fast and professional work you do for us.
 
 > Thank you very much for the perfect translation!
