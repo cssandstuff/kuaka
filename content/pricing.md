@@ -25,4 +25,8 @@ The following is a guide to pricing for frequently ordered translations in New Z
 
 Minimum charge: With the exception of driver’s licence translations, all translations have a minimum charge of $46.
 
-The above rates are subject to change, so please [email](mailto:info@kuakatranslations.co.nz) for a quote.
+Urgent fees may apply if you require a fast turnaround.
+
+My preferred payment method is direct bank transfer to my NZ bank account, but other options are available upon request.
+
+The above rates are subject to change, so please email info@kuakatranslations.co.nz for a quote.
