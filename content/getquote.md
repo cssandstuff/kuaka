@@ -19,4 +19,4 @@ menu:
 * Include any other relevant information such as sections to be translated, or purpose of the translation
 * Include English name spellings if relevant
 * Indicate if you have a specific deadline. Turnaround times are usually 1-3 days depending on content.
-* For multiple files, please email info@kuakatranslations.co.nz
+* Maximum file size is 1MB. For multiple files, please email info@kuakatranslations.co.nz
