@@ -20,7 +20,7 @@ layout: page-with-form
 [www.kuakatranslations.co.nz](http://www.kuakatranslations.co.nz)
 [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)
 
-#### クアカ翻訳サービスに翻訳を依頼すべき主な理由
+### クアカ翻訳サービスに翻訳を依頼すべき主な理由
 
 * ＮＺＳＴＩ認定日英翻訳
 * 日英翻訳経験１７年以上
