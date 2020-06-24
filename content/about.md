@@ -32,7 +32,7 @@ I also regularly attend translation conferences to maintain my skills and keep u
 * Translations accepted by the New Zealand Transport Agency (NZTA), New Zealand Qualifications Authority (NZQA) and Immigration New Zealand
 * I have been translating since 2003
 
-My experience includes translating and revising/editing a variety of texts. I have knowledge of what New Zealand Immigration requires and I also have several years’ experience translating Japanese medical journal articles.
+My experience includes translating and revising/editing a variety of texts. I have knowledge of what Immigration New Zealand requires and I also have several years’ experience translating Japanese medical journal articles.
 
 [Email me](mailto:info@kuakatranslations.co.nz) for a quote for your professional translation requirements.
 
