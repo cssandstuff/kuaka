@@ -34,7 +34,7 @@ I also regularly attend translation conferences to maintain my skills and keep u
 
 My experience includes translating and revising/editing a variety of texts. I have knowledge of what Immigration New Zealand requires and I also have several years’ experience translating Japanese medical journal articles.
 
-[Email me](mailto:info@kuakatranslations.co.nz) for a quote for your professional translation requirements.
+Email info@kuakatranslations.co.nz for a quote for your professional translation requirements.
 
 ### Background to Kuaka Translations and the Kuaka Logo
 
