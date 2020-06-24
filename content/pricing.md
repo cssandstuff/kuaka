@@ -14,7 +14,7 @@ menu:
 
 ## So please email/call for a quote _or fill in the quote form._
 
-All prices below include GST (15%). If you are outside New Zealand, GST does not apply to my services.
+All prices below include GST (Goods and Services Tax of 15%). If you are outside New Zealand, GST does not apply to my services.
 
 The following is a guide to pricing for frequently ordered translations in New Zealand Dollars:
 
