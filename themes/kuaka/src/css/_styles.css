@@ -13,7 +13,9 @@ a:link, a:active, a:visited{
 .nested-links a:hover{
   color: #00a5dd;
 }
-
+.white{
+  color: white;
+}
 body, html{
   font-family: 'Ubuntu', sans-serif;
 }
@@ -268,7 +270,7 @@ blockquote p:before{
   left: -1px;
 }
 
-.nzsti{
+.nzsti, .nzsti:link, .nzsti:active, .nzsti:visited{
   float: left;
   background: #367D9A;
   padding: 1.4em;
@@ -277,14 +279,19 @@ blockquote p:before{
   width: 308px;
   padding-left: 100px;
   position: relative;
-  & a{
-    color: #fff;
-    text-decoration: none;
-    &:hover{
-       text-decoration: underline;
-    }
+  color: #fff;
+  text-decoration: none;
+  margin-right: 13px;
+  &:hover{
+      text-decoration: underline;
   }
 }
+.jat{   
+  float: left;
+  width: 240px;
+  margin: 12px 5px
+}
+.jat img{ width: 100px; margin-bottom: 10px; display:block;}
 .nzsti h6{
   font-size: 1.6em;
   font-weight: 600;
@@ -293,10 +300,11 @@ blockquote p:before{
 }
 .nzsti em{
   margin-top: 3px;
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   display: block;
   font-weight: 300;
   line-height: 1.1;
+  font-style: normal;
 }
 
 footer a{
@@ -308,13 +316,21 @@ footer a{
 .nzsti, .phnumbers{
   @media (max-width:60em){
     width: 100%;
-    margin: 1em auto 0;
+    margin: 1em auto 1em;
     float: none;
-    max-width: 270px;
+    clear: both;
+    /*max-width: 270px;*/
+  }
+ 
+}
+.jat{
+  @media (max-width:60em){
+    padding: 7px 0 13px;
   }
 }
 
 .phnumbers{
+  margin-top: -12px;
   color: #367D9A;
   font-weight: 600;
   font-size: 1.9em;
@@ -661,7 +677,7 @@ article{
 
 @media (max-width:40em){
   .nzsti{
-    padding-left: 1em;
+    padding-left: 1em !important;
     text-align: center;
     & h6{
       margin-bottom: 10px;
