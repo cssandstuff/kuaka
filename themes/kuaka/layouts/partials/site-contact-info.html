@@ -8,18 +8,18 @@
       </a>
       {{ range $i, $e := .Translations }}
       {{ if eq $e.Language.LanguageName "Japanese" }}
-        <div class="jat f6">
+        <a class="jat f6" href="https://jat.org" target="_blank">
           <img src="/images/JAT-logo.png" />
           JAT member<br/>
           Elizabeth Sekizaki is a member of the Japan Association of Translators
-        </div>
+        </a>
       {{ end }}
       {{ if eq $e.Language.LanguageName "English" }}
-        <div class="jat f6">
+        <a class="jat f6" href="https://jat.org/ja" target="_blank">
           <img src="/images/JAT-logo.png" />
           JAT会員</br>
           関﨑エリザベスは日本翻訳者協会<br/>の会員です
-        </div>
+        </a>
       {{ end }}
       {{ end }}
     </div>
