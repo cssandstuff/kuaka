@@ -16,6 +16,9 @@ a:link, a:active, a:visited{
 .white{
   color: white;
 }
+.onpageform .white{
+  color: #367D9A;
+}
 body, html{
   font-family: 'Ubuntu', sans-serif;
 }
