@@ -1,13 +1,13 @@
 ---
 title: Privacy Policy
 seotitle: Privacy Policy
-bg: "/images/rainbow.jpg"
+bg: "/uploads/-original/2017/12/13/Train.JPG"
 date: 2017-11-12T09:07:07.000+00:00
 layout: page-with-form
 hidden: true
 type: page
----
 
+---
 # Privacy policy
 ## Introduction
 Elizabeth Sekizaki (trading as Kuaka Translations) complies with the New Zealand Privacy Act 1993 (the Act) when dealing with personal information. Personal information is information about an identifiable individual (a natural person).
