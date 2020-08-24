@@ -1,13 +1,13 @@
 ---
 title: Terms and Conditions
 seotitle: Terms and Conditions
-bg: "/images/rainbow.jpg"
+bg: "/uploads/2017/12/14/2006_0224 South Island.JPG"
 date: 2017-11-12T09:07:07.000+00:00
 layout: page-with-form
 hidden: true
 type: page
----
 
+---
 # Terms and Conditions
 ## TERMS OF SERVICE
 These Terms apply to all contractual relationships between Elizabeth Sekizaki, trading as Kuaka Translations ("Provider") and its Clients, and constitute the whole agreement between the parties, except where agreed otherwise in writing. All other terms and conditions express or implied by statute or otherwise are excluded to the fullest extent permitted by law. New Zealand law shall apply to the contract, and the parties submit to the exclusive jurisdiction of the New Zealand Courts. If any provision of these Terms is invalid or unenforceable in whole or in part, the validity and enforceability of the other provisions of these Terms and the remainder of the provision in question shall not be affected.
