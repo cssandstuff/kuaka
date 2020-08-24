@@ -1,10 +1,16 @@
 <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
+  <div class="flex justify-left">
   <a class="f6 f5-ns fw4 hover-white no-underline white-70 dn dib pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
   </a>
+  <a class="f6 f5-ns fw4 hover-white no-underline white-70 dn dib pv2 ph3" href="/terms" >
+    Terms &amp; Conditions
+  </a>
+  <a class="f6 f5-ns fw4 hover-white no-underline white-70 dn dib pv2 ph3" href="/privacy-policy" >
+    Privacy Policy
+  </a>
   {{ partial "social-follow.html" . }}
-  <div  class="f6 f5-ns fw4 hover-white no-underline white-70 dn dib pv2 ph3 fr" >
+  <div  class="ml-auto f6 f5-ns fw4 hover-white no-underline white-70 dn dib pv2 ph3 fr" >
     Designed &amp; built by <a class="no-underline ttu" href="http://cssandstuff.com/" target="_blank">css&amp;stuff</a>
   </div>
   </div>
