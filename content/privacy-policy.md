@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 seotitle: Privacy Policy
-bg: "/uploads/-original/2017/12/13/Train.JPG"
+bg: "/uploads/2017/12/13/Train.JPG"
 date: 2017-11-12T09:07:07.000+00:00
 layout: page-with-form
 hidden: true
