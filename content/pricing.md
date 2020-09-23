@@ -27,6 +27,8 @@ Minimum charge: With the exception of driver’s licence translations, all trans
 
 Urgent fees may apply if you require a fast turnaround.
 
+Translations are produced as PDF files. A small additional charge applies for hard copies.
+
 My preferred payment method is direct bank transfer to my NZ bank account, but other options are available upon request.
 
 The above rates are subject to change, so please email info@kuakatranslations.co.nz for a quote.
