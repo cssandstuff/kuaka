@@ -1,7 +1,7 @@
 ---
 title: お見積もり
 seotitle: お見積もり
-bg: "/uploads/2017/12/14/2006_0224 South Island.JPG"
+bg: "/uploads/2021/03/15/20210221_glen-eden-station-3.jpg"
 date: 2017-11-12T22:07:07.000+13:00
 layout: page-with-onpage-form
 weight: "2"
