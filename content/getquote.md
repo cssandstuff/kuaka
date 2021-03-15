@@ -1,7 +1,7 @@
 ---
 title: Get a Quote
 seotitle: Get a Tranlsation Quote
-bg: "/uploads/2017/12/14/2005_0802 Okinawa.JPG"
+bg: "/uploads/2021/03/15/20210221_glen-eden-station-3.jpg"
 date: 2017-11-12T22:07:07.000+13:00
 layout: page-with-onpage-form
 weight: "2"
