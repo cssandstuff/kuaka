@@ -1,4 +1,4 @@
-baseurl = "http://kuakatranslations.co.nz/"
+baseurl = "https://kuakatranslations.co.nz/"
 defaultContentLanguage = "en"
 disableKinds = ["RSS"]
 enableRobotsTXT = true
