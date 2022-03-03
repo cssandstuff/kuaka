@@ -27,6 +27,7 @@ I also regularly attend translation conferences to maintain my skills and keep u
 
 * BA in Japanese (Victoria University of Wellington, New Zealand)
 * Postgraduate Diploma in Translation Studies (University of Auckland, New Zealand)
+* Certificate of Proficiency in Medical Terminology (Auckland University of Technology, New Zealand)
 * Member of the [New Zealand Society for Translators and Interpreters](https://www.nzsti.org/) (NZSTI) - Japanese to English
 * Member of the [Japan Association of Translators](https://jat.org/) (JAT)
 * Translations accepted by the New Zealand Transport Agency (NZTA), New Zealand Qualifications Authority (NZQA) and Immigration New Zealand
