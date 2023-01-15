@@ -40,7 +40,7 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 ### Why use Kuaka Translations?
 
 * Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
-* Over 19 years’ experience
+* Over {{< param experience >}} years’ experience
 * Extensive experience with Japanese clients
 * Personalised service
 * Fluent Japanese speaker
