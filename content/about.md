@@ -39,4 +39,4 @@ Email info@kuakatranslations.co.nz for a quote for your professional translation
 
 ### Background to Kuaka Translations and the Kuaka Logo
 
-Kuaka means bar-tailed godwit in Māori. The godwits are a migratory bird that fly from New Zealand to Alaska to breed, via Asian countries including Japan. This connection between North and South mirrors my Japanese to English translation work.
+Kuaka means bar-tailed godwit in Māori. The godwits are a migratory bird that fly from New Zealand to Alaska to breed, via Asian countries including Japan. This connection between North and South mirrors my Japanese to English translation work...
