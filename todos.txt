@@ -1,0 +1,4 @@
+remove date from photo
+look at uploadcare and see if we can do multi attachments
+currently not be working so look into it.
+
