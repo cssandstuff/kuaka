@@ -27,6 +27,45 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
+            templates: [
+              {
+                name: 'figure',
+                label: 'Polaroid-like Image',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: 'src',
+                    label: 'source',
+                    type: 'string',
+                    required: true,
+                    ui: {
+                      component: 'image',
+                    },
+                  },
+                  {
+                    name: 'class',
+                    label: 'style name (keep as polaroid)',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'title',
+                    label: 'Title',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'caption',
+                    label: 'Caption',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+            ],
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
