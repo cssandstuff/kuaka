@@ -25,6 +25,24 @@ export default defineConfig({
         path: "content",
         fields: [
           {
+            type: 'string',
+            label: 'Title',
+            name: 'title',
+          },
+          {
+            type: 'string',
+            label: 'SEO Title',
+            name: 'seotitle',
+          },
+          {
+            type: 'string',
+            label: 'Background',
+            name: 'bg',
+            ui: {
+              component: 'image',
+            },
+          },
+          {
             type: "rich-text",
             name: "body",
             templates: [
