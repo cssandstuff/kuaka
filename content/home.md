@@ -11,9 +11,6 @@ layout: page-with-form
 
 ## _Based in Auckland, New Zealand_
 
-
-{{< figure src="/images/liz.jpg" class="polaroid" title="Attending FIT (International Federation of Translators) Congress" caption="Brisbane" >}}
-
 {{< homefeatures >}} {{% homefeature nzta %}}
 
 ### Translations for NZTA
