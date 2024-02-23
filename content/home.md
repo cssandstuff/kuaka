@@ -59,4 +59,6 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 
 > Thank you for all the amazing, fast and professional work you do for us.
 
-> Thank you very much for the perfect translation! 
+> Thank you very much for the perfect translation!
+
+> I enquired about services from Japan, and it was really helpful that it was handled so quickly and I was able to get a translation of just the necessary sections. Because the response from Kuaka was so quick, the documents necessary for my application were dealt with quickly and I had time to get them ready. Thank you very much! If I have anything else I will be in touch.
