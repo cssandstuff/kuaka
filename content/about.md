@@ -21,10 +21,12 @@ I am passionate about translating – I love the challenge of creating a transla
 
 I am an English speaker, born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan (Sapporo and Kanazawa). I make regular visits to refresh my knowledge of Japanese life and language.
 
-I also regularly attend translation conferences to maintain my skills and keep up-to-date with professional news and developments – for example, the FIT (International Federation of Translators) Congress in Brisbane, Australia (August, 2017) and the [NZSTI](https://www.nzsti.org/) (New Zealand Society of Translators and Interpreters) Conference in Wellington, New Zealand (May, 2018).
+I also regularly attend translation conferences to maintain my skills and keep up-to-date with professional news and developments – for example, the FIT (International Federation of Translators) Congress in Brisbane, Australia (August, 2017) and NZSTI (New Zealand Society of Translators and Interpreters) Conferences.
+
 
 ### Qualifications:
 
+* NAATI Certified Translator, Japanese to English
 * BA in Japanese (Victoria University of Wellington, New Zealand)
 * Postgraduate Diploma in Translation Studies (University of Auckland, New Zealand)
 * Certificate of Proficiency in Medical Terminology (Auckland University of Technology, New Zealand)
@@ -33,7 +35,8 @@ I also regularly attend translation conferences to maintain my skills and keep u
 * Translations accepted by the New Zealand Transport Agency (NZTA), New Zealand Qualifications Authority (NZQA) and Immigration New Zealand
 * I have been translating since 2003
 
-My experience includes translating and revising/editing a variety of texts. I have knowledge of what Immigration New Zealand requires and I also have several years’ experience translating Japanese medical journal articles.
+
+My experience includes translating and revising/editing a variety of texts. I have knowledge of what Immigration New Zealand requires and I also have many years’ experience translating medical records and Japanese medical journal articles.
 
 Email info@kuakatranslations.co.nz for a quote for your professional translation requirements.
 

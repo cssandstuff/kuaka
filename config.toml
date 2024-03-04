@@ -26,5 +26,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 filename = "sitemap.xml"
 priority = 0.5
 [params]
-  experience = 19
+  experience = 20
 [taxonomies]

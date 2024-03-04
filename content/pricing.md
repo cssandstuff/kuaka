@@ -12,7 +12,7 @@ menu:
 
 # Every project is different
 
-## So please email/call for a quote *or fill in the quote form.*
+## So please email/call for a quote.
 
 All prices below include GST (Goods and Services Tax of 15%). If you are outside New Zealand, GST does not apply to my services.
 

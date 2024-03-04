@@ -20,25 +20,26 @@ Drivers Licences
 
 {{% homefeature nzqa %}}
 
-### Translations for NZQA
+### Certified Translations
 
-Graduation certificates, diplomas, qualifications
+Family registrations, work certificates, diplomas, letters etc. (NZQA, Immigration NZ)
 {{% /homefeature %}}
 
 {{% homefeature immigration %}}
 
-### Translations for Immigration NZ
+### NAATI-Certified Translations
 
-Family registrations, work certificates, recommendation letters etc. {{% /homefeature %}}
+Personal documents issued with a NAATI stamp for use in Australia {{% /homefeature %}}
 
 {{% homefeature medical %}}
 
-### Academic Writing
+### Medical Translations
 
-Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeatures >}}
+Medical records, medical journal articles etc. {{% /homefeature %}} {{< /homefeatures >}}
 
 ### Why use Kuaka Translations?
 
+* NAATI-Certified Japanese to English Translator
 * Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
 * Over {{< param experience >}} years’ experience
 * Extensive experience with Japanese clients
@@ -48,6 +49,7 @@ Medical Journal articles, course curricula {{% /homefeature %}} {{< /homefeature
 * Competitive rates
 * Professional, timely and high quality translations
 * Medical translations a specialty
+*	Main areas of translation: Certified translations (certificates, family registration documents etc.) and medical translations (medical records, medical journal articles etc.)
 
 ### Testimonials
 
