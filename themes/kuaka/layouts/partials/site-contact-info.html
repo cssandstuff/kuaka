@@ -1,10 +1,13 @@
 <div class="d-block cf pre-footer ph5 pb5">
-    <div class=" fl">
+    <div class="certifications">
       <a class="nzsti" title="Kuaka Translations is a member of the New Zealand Society of Translators and Interpreters" href="https://www.nzsti.org/" target="_blank">
       <h6>NZSTI Member
         <em>New Zealand Society of Translators and Interpreters</em>
       </h6>
       <img class="nzsti-logo" src="/images/NZSTIFullMember-Translator.png" />
+      </a>
+      <a class="naati" title="Naati Certified Translator" href="https://www.naati.com.au/certification/ct/">
+        <img src="/images/naati-translator-logo.png" />
       </a>
       {{ range $i, $e := .Translations }}
       {{ if eq $e.Language.LanguageName "Japanese" }}

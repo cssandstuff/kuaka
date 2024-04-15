@@ -294,7 +294,6 @@ blockquote p:before {
   position: relative;
   color: #fff;
   text-decoration: none;
-  margin-right: 13px;
   &:hover {
     text-decoration: underline;
   }
@@ -704,6 +703,7 @@ article {
   .nzsti {
     padding-left: 1em !important;
     text-align: center;
+    /* margin-right: 13px; */
     & h6 {
       margin-bottom: 10px;
     }
@@ -711,4 +711,25 @@ article {
   .nzsti-logo {
     position: static;
   }
+}
+
+
+.certifications{
+  width: 100%;
+  display: flex;
+  margin-bottom: 50px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 2em;
+}
+
+@media (min-width: 72em) {
+  .certifications{
+    flex-wrap: nowrap;
+  }
+}
+
+.naati{
+  width: 250px
 }
