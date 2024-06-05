@@ -17,7 +17,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 
 * NAATI-Certified Japanese to English Translator
 * Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
-* Over {{\< param experience >}} years’ experience
+* Over 20 years’ experience
 * Extensive experience with Japanese clients
 * Personalised service
 * Fluent Japanese speaker
