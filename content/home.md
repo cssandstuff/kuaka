@@ -1,23 +1,23 @@
 ---
-title: Home
-seotitle: Professional Japanese to English Translation
-bg: "/uploads/2018/01/10/Auckland harbour bridge.JPG"
-date: 2017-11-15T07:01:34.000+00:00
+date: '2017-11-15T07:01:34.000Z'
 type: page
 layout: page-with-form
-
+title: Home
+seotitle: Professional Japanese to English Translation
+bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 ---
-# Professional Japanese _to_ English Translation
 
-## _Based in Auckland, New Zealand_
+# Professional Japanese *to* English Translation
 
-{{< homefeatures >}} 
+## *Based in Auckland, New Zealand*
+
+{{< homefeatures >}}
 
 ### Why use Kuaka Translations?
 
 * NAATI-Certified Japanese to English Translator
 * Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
-* Over {{< param experience >}} years’ experience
+* Over {{\< param experience >}} years’ experience
 * Extensive experience with Japanese clients
 * Personalised service
 * Fluent Japanese speaker
@@ -25,9 +25,10 @@ layout: page-with-form
 * Competitive rates
 * Professional, timely and high quality translations
 * Medical translations a specialty
-*	Main areas of translation: Certified translations (certificates, family registration documents etc.) and medical translations (medical records, medical journal articles etc.)
+* Main areas of translation: Certified translations (certificates, family registration documents etc.) and medical translations (medical records, medical journal articles etc.)
 
 ### Testimonials
+
 
 > First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally.
 
@@ -40,3 +41,4 @@ layout: page-with-form
 > Thank you very much for the perfect translation!
 
 > I enquired about services from Japan, and it was really helpful that it was handled so quickly and I was able to get a translation of just the necessary sections. Because the response from Kuaka was so quick, the documents necessary for my application were dealt with quickly and I had time to get them ready. Thank you very much! If I have anything else I will be in touch.
+

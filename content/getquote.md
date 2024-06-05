@@ -1,17 +1,17 @@
 ---
-title: Get a Quote
-seotitle: Get a Tranlsation Quote
-bg: "/uploads/2021/03/15/20210221_glen-eden-station-3.jpg"
-date: 2017-11-12T22:07:07.000+13:00
+date: '2017-11-12T09:07:07.000Z'
 layout: page-with-form
-weight: "2"
+weight: '2'
 type: page
 menu:
   main:
     weight: 8
-
+title: Get a Quote
+seotitle: Get a Tranlsation Quote
+bg: /uploads/2021/03/15/20210221_glen-eden-station-3.jpg
 ---
-# Please email for a quote _or_
+
+# Please email for a quote *or*
 
 ## Fill in the quote form below.
 

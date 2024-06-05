@@ -1,16 +1,16 @@
 ---
-title: 翻訳料金
-seotitle: 翻訳料金
-bg: "/uploads/2017/12/14/Ruapehu 2006_07110044.JPG"
-date: 2017-11-14T20:01:34.000+13:00
+date: '2017-11-14T07:01:34.000Z'
 layout: page-with-form
-weight: "3"
+weight: '3'
 type: page
 menu:
   main:
     weight: 2
-
+title: 翻訳料金
+seotitle: 翻訳料金
+bg: /uploads/2017/12/14/Ruapehu 2006_07110044.JPG
 ---
+
 # 翻訳料金について
 
 翻訳のお仕事の内容は、千差万別です。メールまたはお電話にて、お気軽にお見積もりをお問い合わせください。

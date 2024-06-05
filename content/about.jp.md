@@ -1,16 +1,16 @@
 ---
-title: クアカについて
-seotitle: クアカについて
-bg: "/images/rainbow.jpg"
-date: 2017-11-12T09:07:07.000+00:00
+date: '2017-11-12T09:07:07.000Z'
 layout: page-with-form
-weight: "-1"
+weight: '-1'
 type: page
 menu:
   main:
     weight: 1
-
+title: クアカについて
+seotitle: クアカについて
+bg: /images/rainbow.jpg
 ---
+
 # 「クアカ翻訳サービス」は、
 
 # 関﨑エリザベスが提供する翻訳サービスの商号です。
@@ -36,7 +36,7 @@ menu:
 
 今まで様々な分野で日英翻訳、編集および校正作業を承ってきました。ニュージーランド移民局やNZQA提出用の翻訳で豊富な経験があるほか、長年カルテや医学機関誌などの医療系翻訳を得意分野としてきました。
 
-翻訳に関するお見積り・ご相談は[メール](mailto:info@kuakatranslations.co.nz) (info@kuakatranslations.co.nz) にてお問い合わせください。可能な限り早く対応させていただきます。
+翻訳に関するお見積り・ご相談は[メール](mailto:info@kuakatranslations.co.nz) ([info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz)) にてお問い合わせください。可能な限り早く対応させていただきます。
 
 ### クアカ翻訳サービスとロゴマークについて
 

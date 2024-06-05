@@ -1,13 +1,13 @@
 ---
-title: Pricing
-seotitle: Quote for Japanese to English Translation
-bg: /uploads/2017/12/15/Mt Yotei.jpg
 date: '2017-11-14T07:01:34.000Z'
 layout: page-with-form
 type: page
 menu:
   main:
     weight: 6
+title: Pricing
+seotitle: Quote for Japanese to English Translation
+bg: /uploads/2017/12/15/Mt Yotei.jpg
 ---
 
 # Every project is different
@@ -31,4 +31,4 @@ Translations are produced as PDF files. A small additional charge applies for ha
 
 My preferred payment method is direct bank transfer to my NZ bank account, but other options are available upon request.
 
-The above rates are subject to change, so please email info@kuakatranslations.co.nz for a quote.
+The above rates are subject to change, so please email [info@kuakatranslations.co.nz](mailto:info@kuakatranslations.co.nz) for a quote.
