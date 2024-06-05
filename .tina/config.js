@@ -83,6 +83,22 @@ export default defineConfig({
                   },
                 ],
               },
+              {
+                name: 'homefeatures',
+                label: 'Home page features',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: 'name',
+                    label: 'name',
+                    type: 'string',
+                    required: false,
+                  },
+                ],
+              },
             ],
             label: "Body of Document",
             description: "This is the markdown body",

@@ -202,6 +202,7 @@ blockquote p:before {
   margin-bottom: 10em;
   font-weight: 300;
   max-width: 1060px;
+  border-radius: 0 0 10px 10px;
   &.onpageform {
     margin-bottom: 30em;
     @media (max-width: 60em) {
@@ -268,8 +269,8 @@ blockquote p:before {
   font-size: 1.37em;
   letter-spacing: 0.01em;
   margin: 0.2em 0 0;
-  padding-bottom: 0.5em;
-  border-bottom: 1px solid #367d9a;
+  padding-bottom: 0.2em;
+  /* border-bottom: 1px solid #367d9a; */
   line-height: 1.25;
   @media (max-width: 60em) {
     font-size: 1em;
@@ -611,26 +612,29 @@ article {
 }
 
 .homefeatures {
-  flex: 1 1;
   flex-direction: row;
   display: flex;
   justify-content: space-between;
-  align-content: center;
-  align-items: flex-end;
-  padding-top: 2.2em;
+  align-content: stretch;
+  align-items: stretch;
+  padding-top: 1.6em;
   margin-bottom: 2em;
   flex-wrap: wrap;
-  flex-grow: 1;
-  @media (min-width: 82em) {
-    flex-grow: 0;
-  }
+  gap: 2em 0.5em;
+
 }
 .homefeature {
   flex-basis: 100%;
-  margin: 0 0 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   min-width: 311px;
+  padding: 0 12px;
+  border-left: 4px solid #367d9a85;
+
+
   @media (min-width: 70em) {
-    flex-basis: calc(50% - 0.4em);
+    flex-basis: calc(50% - 0.5em);
   }
 
   @media (min-width: 82em) {
@@ -639,20 +643,14 @@ article {
     min-width: 0;
   }
   & .content {
-    padding: 8px 12px;
-    border-radius: 0.4em;
-    box-shadow: 0px 1px 4px #ccc;
-    background: linear-gradient(to bottom, #fff 0%, #edf0f2 100%);
-    border-bottom: 2px solid #153b54;
-    min-height: 82px;
+    display: flex;
     position: relative;
-    @media (min-width: 82em) {
-      min-height: 137px;
-    }
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0.5em;
+
     & img {
-      position: absolute;
-      right: 13px;
-      bottom: 16px;
+
       &.nzta {
         width: 46px;
         height: 32px;
@@ -675,8 +673,8 @@ article {
     color: #153b54;
     line-height: 1;
     font-size: 1.1rem;
-    padding-right: 2.8em;
-    margin-top: 4px;
+    margin-top: 2px;
+    margin-bottom: 0;
     @media (max-width: 40em) {
       font-size: 0.95rem;
     }
@@ -685,10 +683,8 @@ article {
     color: #153b54;
     line-height: 1.1;
     font-size: 0.85rem;
-    padding-right: 4.5em;
-    position: absolute;
-    left: 10px;
-    bottom: 3px;
+    white-space: normal;
+    margin-bottom: 6px;
   }
 }
 

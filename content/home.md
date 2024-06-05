@@ -11,31 +11,7 @@ layout: page-with-form
 
 ## _Based in Auckland, New Zealand_
 
-{{< homefeatures >}} {{% homefeature nzta %}}
-
-### Translations for NZTA
-
-Drivers Licences
-{{% /homefeature %}}
-
-{{% homefeature nzqa %}}
-
-### Certified Translations
-
-Family registrations, work certificates, diplomas, letters etc. (NZQA, Immigration NZ)
-{{% /homefeature %}}
-
-{{% homefeature immigration %}}
-
-### NAATI-Certified Translations
-
-Personal documents issued with a NAATI stamp for use in Australia {{% /homefeature %}}
-
-{{% homefeature medical %}}
-
-### Medical Translations
-
-Medical records, medical journal articles etc. {{% /homefeature %}} {{< /homefeatures >}}
+{{< homefeatures >}} 
 
 ### Why use Kuaka Translations?
 

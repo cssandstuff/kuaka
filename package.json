@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
+    "dev": "tinacms dev -c \"hugo server -D\" --datalayer-port 9001",
     "build": "tinacms build && hugo"
   },
   "repository": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/cssandstuff/kuaka#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.3.2",
-    "tinacms": "^1.3.2"
+    "@tinacms/cli": "^1.5.46",
+    "tinacms": "^1.5.46"
   }
 }
