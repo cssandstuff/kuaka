@@ -8,8 +8,7 @@ seotitle: Terms and Conditions
 seodescription: >-
   Termsfor all contractual relationships between Elizabeth Sekizaki, trading as
   Kuaka Translations ("Provider") and its Clients
-bg: >-
-  https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/backgrounds/leafy.jpg
+bg: 'https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/Waiheke 2.JPG'
 ---
 
 # Terms and Conditions
