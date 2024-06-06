@@ -25,6 +25,7 @@ The following is a guide to pricing for frequently ordered translations in New Z
 * Family registration certificate – selective translation: $51.75 for up to three family members
 * Birth certificate – selective translation: $51.75
 * Full translations: Rates vary depending on the document, but are charged per Japanese character. Minimum charge applies.
+* Prices differ for NAATI-certified translations. Please email for a quote.
 
 Minimum charge: With the exception of driver’s licence translations, all translations have a minimum charge of $51.75 (for documents less than 300 Japanese characters).
 
