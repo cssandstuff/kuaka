@@ -36,6 +36,11 @@ export default defineConfig({
           },
           {
             type: 'string',
+            label: 'SEO Description',
+            name: 'seodescription',
+          },
+          {
+            type: 'string',
             label: 'Background',
             name: 'bg',
             ui: {
