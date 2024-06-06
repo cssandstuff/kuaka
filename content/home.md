@@ -23,7 +23,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 * Personalised service
 * Fluent Japanese speaker
 * Prompt replies to requests for quotations
-* Competitive rates.
+* Competitive rates
 * Professional, timely and high quality translations
 * Medical translations a specialty
 * Main areas of translation: Certified translations (certificates, family registration documents etc.) and medical translations (medical records, medical journal articles etc.)
