@@ -8,6 +8,7 @@ menu:
     weight: 7
 title: Contact
 seotitle: Contact Liz Sekizaki
+seodescription: Contact details for Elizabeth Sekizaki of Kuaka Translations
 bg: /images/fuji.jpg
 ---
 

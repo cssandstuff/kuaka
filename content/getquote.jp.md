@@ -8,6 +8,7 @@ menu:
     weight: 4
 title: お見積もり
 seotitle: お見積もり
+seodescription: 翻訳のお見積もりをご依頼されるときは、以下をご送付いただけますようお願いいたします。
 bg: /uploads/2021/03/15/20210221_glen-eden-station-3.jpg
 ---
 

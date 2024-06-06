@@ -7,6 +7,7 @@ menu:
     weight: 6
 title: Pricing
 seotitle: Quote for Japanese to English Translation
+seodescription: Pricing information and minimum charges for translations into English from Japanese
 bg: /uploads/2017/12/15/Mt Yotei.jpg
 ---
 

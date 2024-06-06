@@ -8,6 +8,7 @@ menu:
     weight: 2
 title: 翻訳料金
 seotitle: 翻訳料金
+seodescription: 翻訳のお仕事の内容は、千差万別です
 bg: /uploads/2017/12/14/Ruapehu 2006_07110044.JPG
 ---
 

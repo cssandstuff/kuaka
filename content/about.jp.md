@@ -8,6 +8,7 @@ menu:
     weight: 1
 title: クアカについて
 seotitle: クアカについて
+seodescription: 私は、翻訳という仕事に情熱を感じています。日本語から英語に翻訳する時、英語を母国語とする人たちにとって自然な英語として響くような英訳文を創り出すことにやりがいを感じています。
 bg: /images/rainbow.jpg
 ---
 

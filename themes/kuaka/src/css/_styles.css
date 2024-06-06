@@ -315,7 +315,7 @@ blockquote p:before {
   margin-bottom: 10px;
   display: block;
 }
-.nzsti h6 {
+.nzsti p {
   font-size: 1.6em;
   font-weight: 600;
 
@@ -364,8 +364,9 @@ footer a {
     font-size: 1.5em;
   }
 }
-.phnumbers h6 {
+.phnumbers p {
   margin: 0 0 6px 0;
+  font-size: 20px;
 }
 .phnumbers strong {
   text-transform: uppercase;
@@ -408,7 +409,7 @@ footer a {
   display: inline-block;
   text-decoration: none;
   font-size: 0.8rem;
-  opacity: 0.4;
+  opacity: 0.7;
   &.selected {
     background: rgba(0, 0, 0, 0.4);
     opacity: 1;
@@ -527,50 +528,7 @@ article {
     & form {
       width: 100% !important;
     }
-    & .uploadcare--widget__button {
-      color: rgba(23, 53, 77, 0.95);
-      position: relative;
-      margin-left: 0;
-      border-color: rgba(13, 135, 175, 0.1);
-      &:before {
-        background: url("/images/attach.png") no-repeat;
-        background-size: 100%;
-      }
-      &:hover {
-        background: rgba(13, 135, 175, 0.14) !important;
-        border-color: rgba(13, 135, 175, 0.2);
-      }
-    }
   }
-}
-.uploadcare--widget__button {
-  padding: 9px 19px 9px 30px;
-  position: relative;
-  margin-left: 13px;
-  margin-bottom: 6px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  cursor: pointer;
-  &:hover {
-    background: #0d87af80 !important;
-    border-color: transparent;
-  }
-  &:before {
-    content: "";
-    background: url("/images/attach-white.png") no-repeat;
-    position: absolute;
-    left: 8px;
-    top: 5px;
-    width: 13px;
-    height: 24px;
-    background-size: 100%;
-  }
-}
-.uploadcare--widget__button_type_open:focus,
-.uploadcare--widget__button_type_open:hover,
-.uploadcare--widget__button_type_open {
-  background: none;
-  font-family: "Ubuntu", Sans-serif;
-  font-style: italic;
 }
 
 input.submit {

@@ -1,25 +1,26 @@
 <div class="d-block cf pre-footer ph5 pb5">
     <div class="certifications">
       <a class="nzsti" title="Kuaka Translations is a member of the New Zealand Society of Translators and Interpreters" href="https://www.nzsti.org/" target="_blank">
-      <h6>NZSTI Member
+      <p>NZSTI Member
         <em>New Zealand Society of Translators and Interpreters</em>
-      </h6>
-      <img class="nzsti-logo" src="/images/NZSTIFullMember-Translator.png" />
+      </p>
+      <img class="nzsti-logo" src="/images/NZSTIFullMember-Translator.png" alt="New Zealand Society of Translators and Interpreters logo"/>
       </a>
       <a class="naati" title="Naati Certified Translator" target="_blank" href="https://www.naati.com.au/certification/ct/">
-        <img src="/images/naati-translator-logo.png" />
+        <img src="/images/naati-translator-logo.png" alt="National Accreditation Authority for
+Translators and Interpreters translator logo" />
       </a>
       {{ range $i, $e := .Translations }}
       {{ if eq $e.Language.LanguageName "Japanese" }}
         <a class="jat f6" href="https://jat.org" target="_blank">
-          <img src="/images/JAT-logo.png" />
+          <img src="/images/JAT-logo.png" alt="Japan association of translators logo"/>
           JAT member<br/>
           Elizabeth Sekizaki is a member of the Japan Association of Translators
         </a>
       {{ end }}
       {{ if eq $e.Language.LanguageName "English" }}
         <a class="jat f6" href="https://jat.org/ja" target="_blank">
-          <img src="/images/JAT-logo.png" />
+          <img src="/images/JAT-logo.png" alt="Japan association of translators logo"/>
           JAT会員</br>
           関﨑エリザベスは日本翻訳者協会<br/>の会員です
         </a>
@@ -33,7 +34,7 @@
       {{ end }}
     </div>
     <div class="phnumbers fr">
-      <h6><strong>EMAIL:</strong><span class="f6"><a href="mailto:info@kuakatranslations.co.nz">info@kuakatranslations.co.nz</a></span></h6>
-      <h6><strong>MOBILE:</strong><a href="tel:+64211237042"><span class="international">+64</span> <span class="fr" >21 123 7042</span></a></h6>
+      <p><strong>EMAIL:</strong><span class="f6"><a href="mailto:info@kuakatranslations.co.nz">info@kuakatranslations.co.nz</a></span></p>
+      <p><strong>MOBILE:</strong><a href="tel:+64211237042"><span class="international">+64</span> <span class="fr" >21 123 7042</span></a></p>
     </div>
 </div>

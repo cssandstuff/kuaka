@@ -8,6 +8,7 @@ menu:
     weight: 3
 title: お問い合わせ
 seotitle: お問い合わせ
+seodescription: Contact details for Elizabeth Sekizaki of Kuaka Translations
 bg: /images/waiheke.jpg
 ---
 

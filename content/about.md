@@ -8,6 +8,7 @@ menu:
     weight: 5
 title: About
 seotitle: About Elizabeth Sekizaki
+seodescription: Born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan I love the challenge of creating a translation that sounds natural in English.
 bg: /images/rainbow.jpg
 ---
 

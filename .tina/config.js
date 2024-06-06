@@ -99,6 +99,20 @@ export default defineConfig({
                   },
                 ],
               },
+              {
+                name: 'quote',
+                label: 'Customer quote',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: "children",
+                    type: "rich-text"
+                  }
+                ]
+              },
             ],
             label: "Body of Document",
             description: "This is the markdown body",

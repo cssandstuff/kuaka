@@ -14,27 +14,8 @@ var $ = require('jquery/src/jquery');
 //
 // You can also "require" any script from its location in the node modules folder. Webpack often knows what to look for, but you can add a script directly like this:
 // var javascriptthingy = require('name/folder/file.js');
-function updateLangs(){
-  var internalUploadcare;
-  uploadcare.plugin(function(internal) {
-    internalUploadcare = internal;
-  });
 
-  $('#languages a').off().on('click', function() {
-    var locale = $(this).data('lang');
-    //console.log(locale);
-    internalUploadcare.locale.rebuild({
-      locale: locale
-    });
-    
-    $('#uploader').html(
-      $('#uploader input:eq(0)')
-    );
-    uploadcare.initialize($('#uploader'));
-  });
-}
 $(document).ready(function(){
-  updateLangs();
   $('#navMain li').stop().click(function(){
     $('#navMain li').removeClass('selected');
     $(this).addClass('selected');
@@ -156,7 +137,6 @@ function loadPage(newUrl) {
     }
     
     languagesElement.replaceWith(newLanguage);
-    updateLangs();
 
     clearTimeout(changeBg);
     downloadingImage.onload = function(){
