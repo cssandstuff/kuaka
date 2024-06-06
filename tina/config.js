@@ -30,24 +30,6 @@ export default defineConfig({
             name: 'title',
           },
           {
-            type: 'string',
-            label: 'SEO Title',
-            name: 'seotitle',
-          },
-          {
-            type: 'string',
-            label: 'SEO Description',
-            name: 'seodescription',
-          },
-          {
-            type: 'string',
-            label: 'Background',
-            name: 'bg',
-            ui: {
-              component: 'image',
-            },
-          },
-          {
             type: "rich-text",
             name: "body",
             templates: [
@@ -122,6 +104,24 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: 'string',
+            label: 'SEO Title',
+            name: 'seotitle',
+          },
+          {
+            type: 'string',
+            label: 'SEO Description',
+            name: 'seodescription',
+          },
+          {
+            type: 'string',
+            label: 'Background',
+            name: 'bg',
+            ui: {
+              component: 'image',
+            },
           },
         ],
       },
