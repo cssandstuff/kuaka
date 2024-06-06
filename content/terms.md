@@ -5,8 +5,11 @@ hidden: true
 type: page
 title: Terms and Conditions
 seotitle: Terms and Conditions
-seodescription: Termsfor all contractual relationships between Elizabeth Sekizaki, trading as Kuaka Translations ("Provider") and its Clients
-bg: /uploads/2017/12/14/2006_0224 South Island.JPG
+seodescription: >-
+  Termsfor all contractual relationships between Elizabeth Sekizaki, trading as
+  Kuaka Translations ("Provider") and its Clients
+bg: >-
+  https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/backgrounds/leafy.jpg
 ---
 
 # Terms and Conditions
