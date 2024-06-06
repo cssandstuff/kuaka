@@ -7,7 +7,9 @@ menu:
     weight: 6
 title: Pricing
 seotitle: Quote for Japanese to English Translation
-seodescription: Pricing information and minimum charges for translations into English from Japanese
+seodescription: >-
+  Pricing information and minimum charges for translations into English from
+  Japanese
 bg: /uploads/2017/12/15/Mt Yotei.jpg
 ---
 
@@ -17,7 +19,7 @@ bg: /uploads/2017/12/15/Mt Yotei.jpg
 
 All prices below include GST (Goods and Services Tax of 15%). If you are outside New Zealand, GST does not apply to my services.
 
-The following is a guide to pricing for frequently ordered translations in New Zealand Dollars:
+The following is a guide to pricing for frequently ordered translations in New Zealand Dollars (with NZSTI stamp):
 
 * Driver’s licence translation (NZTA format): $45
 * Family registration certificate – selective translation: $51.75 for up to three family members
