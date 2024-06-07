@@ -51,7 +51,7 @@
   <body class="ma0 {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
    
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="" role="main" id="mainContent">
+    <main class="" role="main" id="mainContent" aria-live="polite">
       {{ block "main" . }} {{ end }}
     </main>
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
