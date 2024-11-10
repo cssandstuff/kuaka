@@ -8,7 +8,10 @@ menu:
     weight: 5
 title: About
 seotitle: About Elizabeth Sekizaki
-seodescription: Born in New Zealand but fluent in Japanese after a number of years of study and over five years living in Japan I love the challenge of creating a translation that sounds natural in English.
+seodescription: >-
+  Born in New Zealand but fluent in Japanese after a number of years of study
+  and over five years living in Japan I love the challenge of creating a
+  translation that sounds natural in English.
 bg: /images/rainbow.jpg
 ---
 
@@ -16,7 +19,7 @@ bg: /images/rainbow.jpg
 
 ## *the trading name of Elizabeth Sekizaki*
 
-{{< figure src="/images/liz.jpg" class="polaroid" title="Attending FIT (International Federation of Translators) Congress" caption="Brisbane" >}}
+{{< figure src="https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/20240907_134518 cropped NZSTI conference.jpg" class="polaroid" title="Attending NZSTI Conference 2024" caption="Auckland" >}}
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
