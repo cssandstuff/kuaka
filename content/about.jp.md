@@ -17,7 +17,7 @@ bg: /images/rainbow.jpg
 
 # 関﨑エリザベスが提供する翻訳サービスの商号です。
 
-{{< figure src="https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/20240907_134518 cropped NZSTI conference.jpg" class="polaroid" title="ニュージーランド翻訳者通訳者協会(NZSTI)の会議" caption="オークランド" >}}
+{{< figure src="https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/20240907_134518 cropped NZSTI conference.jpg" class="polaroid" title="ニュージーランド翻訳者通訳者協会(NZSTI)の会議（2024年）" caption="オークランド" >}}
 
 私は、翻訳という仕事に情熱を感じています。日本語から英語に翻訳する時、英語を母国語とする人たちにとって自然な英語として響くような英訳文を創り出すことにやりがいを感じています。日英翻訳を必要とする方々の様々なニーズに沿うように、質の高い日英翻訳を提供していくことに情熱を持って取り組んでいます。
 
