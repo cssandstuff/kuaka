@@ -21,13 +21,13 @@ All prices below include GST (Goods and Services Tax of 15%). If you are outside
 
 The following is a guide to pricing for frequently ordered translations in New Zealand Dollars (with NZSTI stamp):
 
-* Driver’s licence translation (NZTA format): $45
-* Family registration certificate – selective translation: $51.75 for up to three family members
-* Birth certificate – selective translation: $51.75
+* Driver’s licence translation (NZTA format): $50
+* Family registration certificate – selective translation: $57.50 for up to three family members
+* Birth certificate – selective translation: $57.50
 * Full translations: Rates vary depending on the document, but are charged per Japanese character. Minimum charge applies.
 * Prices differ for NAATI-certified translations. Please email for a quote.
 
-Minimum charge: With the exception of driver’s licence translations, all translations have a minimum charge of $51.75 (for documents less than 300 Japanese characters).
+Minimum charge: With the exception of driver’s licence translations, all translations have a minimum charge of $57.50 (for documents less than 300 Japanese characters).
 
 Urgent fees may apply if you require a fast turnaround.
 
