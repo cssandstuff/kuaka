@@ -2,9 +2,9 @@
 date: '2017-11-15T07:01:34.000Z'
 type: page
 layout: page-with-form
-seodescription: Japanese to English translation services from Elizabeth Sekizaki.
 title: Home
 seotitle: Professional Japanese to English Translation
+seodescription: Japanese to English translation services from Elizabeth Sekizaki.
 bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 ---
 
@@ -35,7 +35,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 {{< /quote >}}
 
 {{< quote >}}
-> Elizabeth has always provided work of the highest quality, with great attention to detail and always on time. She is a pleasure to deal with and I would not hesitate to use her services again!
+> Liz works so quickly and has a good understanding of what is needed for a range of processes. We used her services for our visa application and I am incredibly satisfied with her service. She was very fast to respond to our initial inquiry and quickly made up a quote for us. I would recommend her to anyone needing Japanese-English translations. J. Ziegler
 {{< /quote >}}
 
 {{< quote >}}
