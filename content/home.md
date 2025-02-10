@@ -43,10 +43,6 @@ We recently had the pleasure of using Liz's Japanese to English translation serv
 {{< /quote >}}
 
 {{< quote >}}
-> Thank you very much for the perfect translation!
-{{< /quote >}}
-
-{{< quote >}}
 > Liz efficiently provided reasonably priced translation services. Her quick turnaround and competitive rates make her an
 > excellent choice for translations. I would happily use her services again in the future. - N. McKernan
 {{< /quote >}}
