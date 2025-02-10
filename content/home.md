@@ -39,7 +39,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 {{< /quote >}}
 
 {{< quote >}}
-> Since I started my immigration business in the beginning of 2015, I have been very happy with your services. You respond to my emails very quickly. You have strong professional ethics, which makes me feel comfortable to deal with you.
+We recently had the pleasure of using Liz's Japanese to English translation service, and we couldn't be more impressed. After discovering her details on the NZTA website, we've used her service a couple of times, and each experience has been exceptional. Liz is highly professional, accurate, and prompt in her work. We highly recommend Liz’s translation service to anyone in need. Her efficiency and attention to detail are second to none! - S. Jeong
 {{< /quote >}}
 
 {{< quote >}}
