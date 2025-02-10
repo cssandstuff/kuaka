@@ -47,7 +47,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 {{< /quote >}}
 
 {{< quote >}}
-> 完璧な翻訳をしていただき、ありがとうございます！
+> 良心的な価格にも関わらず、仕事も早く助かりました。- C.S.様
 {{< /quote >}}
 
 {{< quote >}}
