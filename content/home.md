@@ -31,7 +31,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 ### Testimonials
 
 {{< quote >}}
-> First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally.
+> First rate service! I am very happy with the high level of professionalism, speed, quality of work, and flexibility for working with me internationally. C. Graves
 {{< /quote >}}
 
 {{< quote >}}
