@@ -39,7 +39,7 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 {{< /quote >}}
 
 {{< quote >}}
-We recently had the pleasure of using Liz's Japanese to English translation service, and we couldn't be more impressed. After discovering her details on the NZTA website, we've used her service a couple of times, and each experience has been exceptional. Liz is highly professional, accurate, and prompt in her work. We highly recommend Liz’s translation service to anyone in need. Her efficiency and attention to detail are second to none! - S. Jeong
+> We recently had the pleasure of using Liz's Japanese to English translation service, and we couldn't be more impressed. After discovering her details on the NZTA website, we've used her service a couple of times, and each experience has been exceptional. Liz is highly professional, accurate, and prompt in her work. We highly recommend Liz’s translation service to anyone in need. Her efficiency and attention to detail are second to none! - S. Jeong
 {{< /quote >}}
 
 {{< quote >}}
