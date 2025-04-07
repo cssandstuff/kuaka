@@ -5,7 +5,9 @@ hidden: true
 type: page
 title: Privacy Policy
 seotitle: Privacy Policy
-seodescription: Elizabeth Sekizaki (trading as Kuaka Translations) complies with the New Zealand Privacy Act 1993 (the Act) when dealing with personal information
+seodescription: >-
+  Elizabeth Sekizaki (trading as Kuaka Translations) complies with the New
+  Zealand Privacy Act 1993 (the Act) when dealing with personal information
 bg: /uploads/2017/12/13/Train.JPG
 ---
 
@@ -24,8 +26,8 @@ I may change this policy by uploading a revised policy onto the website. The cha
 ## Collection of personal information
 
 I collect personal information about you from:
-you, when you provide that personal information to me, including via the website and any related service, through any registration or subscription process, through any contact with me (e.g. telephone call or email), or when you request or purchase my services
-third parties where you have authorised this or the information is publicly available.
+\- you, when you provide that personal information to me, including via the website and any related service, through any registration or subscription process, through any contact with me (e.g. telephone call or email), or when you request or purchase my services
+\- third parties, where you have authorised this or the information is publicly available.
 If possible, I will only collect personal information from you directly.
 
 ## How I use your personal information
@@ -44,8 +46,8 @@ A business that supports my services may be located outside New Zealand. This ma
 
 ## Retention of personal information
 
-Information relating to quotes will be retained for up to three months. In cases of work carried out, I am obliged to retain your personal information in electronic format for seven years to comply with local taxation obligations, after which period this information will be deleted. I will also delete email communication after seven years. 
-If physical copies of translations and their corresponding source documents containing personal information are not required or requested by clients, these will be destroyed within one month of their date of issue.
+Information relating to quotes will be retained for up to one month. In cases of work carried out, I am obliged to retain your personal information in electronic format for seven years to comply with local taxation obligations, after which period this information will be deleted. I will also delete email communication after seven years. 
+If physical copies of translations and their corresponding source documents containing personal information are not required or requested by clients, these will be destroyed within one month of their date of issue. Please get in touch with me at liz\@kuakatranslations.co.nz to request a deletion of your data within a different time frame if required.
 
 ## Protecting your personal information
 
