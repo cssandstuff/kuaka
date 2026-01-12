@@ -17,8 +17,8 @@ bg: /uploads/2018/01/10/Auckland harbour bridge.JPG
 ### Why use Kuaka Translations?
 
 * NAATI-Certified Japanese to English Translator
-* Qualified translator and Member of [NZSTI](https://www.nzsti.org/)
-* Over 20 years’ experience
+* Qualified translator and Accredited Practitioner (in Translation) of [NZSTI](https://www.nzsti.org/)
+* Over 22 years’ experience
 * Extensive experience with Japanese clients
 * Personalised service
 * Fluent Japanese speaker
