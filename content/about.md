@@ -19,7 +19,7 @@ bg: /images/rainbow.jpg
 
 ## *the trading name of Elizabeth Sekizaki*
 
-{{< figure src="https://assets.tina.io/b0cbd30d-c318-480b-ae05-b45d562d7b0f/20240907_134518 cropped NZSTI conference.jpg" class="polaroid" title="Attending NZSTI Conference 2024" caption="Auckland" >}}
+{{< figure src="/images/Liz-Sekisaki-NZSTI2025-Portraits-Web.jpg" class="polaroid" >}}
 
 I am passionate about translating – I love the challenge of creating a translation that sounds natural in English. I am committed to providing high quality translations that are fit for purpose.
 
